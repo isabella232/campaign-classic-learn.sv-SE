@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Dokumentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
@@ -30,8 +30,10 @@ ht-degree: 2%
    + [Skapa en lista med mottagare](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [Skapa ett arbetsflöde](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Skapa ett målarbetsflöde](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Importera profiler](/help/acc/data-management/importing-profiles.md)
    + [Hantera startvärden och korrektur i ett e-postmeddelande](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profilhantering {#profile-management}
+   + [Skapa och hantera profiler](/help/acc/profile-management/create-and-manage-profiles.md)
+   + [Importera profiler](/help/acc/data-management/importing-profiles.md)
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
       + [Skapa en kampanj och ett e-postmeddelande](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
