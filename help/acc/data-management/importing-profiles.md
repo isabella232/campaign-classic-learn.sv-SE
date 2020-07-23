@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 4%
@@ -25,4 +25,3 @@ I den här videon förklaras hur du importerar profiler i Adobe Campaign Classic
 ## Ytterligare resurser
 
 - [Exportera och importera profiler](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
-
