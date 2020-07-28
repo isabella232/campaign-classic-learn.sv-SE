@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Classic-självstudiekurser - översikt
+title: Adobe Campaign Classic Tutorials - översikt
 description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 1%
 
 # Översikt
 
-Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videoklipp och självstudiekurser om de många funktionerna i Adobe Campaign Classic.
+Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign Classic.
 
 ## Nyheter
 
 * **[GPG-nyckelhantering](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven[!UICONTROL Campaign]instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
+   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven Campaign-instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
 
 * **[Delegera underdomäner (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 
 * **[Definiera interaktivt e-postinnehåll med AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Lär dig hur du konfigurerar e-postinnehållet Adobe Campaign Classic (ACC) i AMP-format.*
+   *Lär dig hur du konfigurerar e-postinnehållet Adobe Campaign Classic(ACC) i AMP-format.*
 
 ## Personalval
 
@@ -61,11 +61,11 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="Anpassa e-postmeddelanden med dynamiska innehållsblock (video)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>Anpassa e-postmeddelanden med dynamiska innehållsblock</strong>
     </a>
     </div>
