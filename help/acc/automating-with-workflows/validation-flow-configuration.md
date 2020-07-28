@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Innan godkännandestegen aktiveras måste marknadsföringsteamet definiera enski
 
 ## Konfigurera godkännanden för kampanjer  {#configuring-approvals-for-campaigns}
 
-Om ni har samma uppsättning granskare för alla leveranser i ert kampanjarbetsflöde skulle ni utnyttja [!DNL Campaign] godkännandefunktionerna. Genom att ställa in godkännanden och granskare på kampanjnivå kommer godkännandeaktiviteterna och granskarna att flyttas ned till varje leveransaktivitet i arbetsflödet när arbetsflödet har körts.
+Om ni har samma uppsättning granskare för alla leveranser i ert kampanjarbetsflöde skulle ni utnyttja funktionerna för godkännande av Campaign. Genom att ställa in godkännanden och granskare på kampanjnivå kommer godkännandeaktiviteterna och granskarna att flyttas ned till varje leveransaktivitet i arbetsflödet när arbetsflödet har körts.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
