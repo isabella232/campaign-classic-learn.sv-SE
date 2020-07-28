@@ -1,6 +1,6 @@
 ---
-title: Stor datahantering i Snowflake
-description: I den här självstudiekursen beskrivs hur du använder konnektorn för snöflake i Adobe Campaign Classic
+title: Big data management på Snowflake
+description: I den här självstudiekursen beskrivs hur du kan utnyttja Snowflake-anslutningen i Adobe Campaign Classic
 feature: Snowflake
 topics: FDA
 kt: 4450
@@ -10,19 +10,19 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
 
 
-# Stor datahantering i Snowflake
+# Big data management på Snowflake
 
-I den här självstudiekursen beskrivs hur du använder [!DNL Snowflake] kopplingen i Adobe Campaign Classic.
+I den här självstudiekursen beskrivs hur du använder Snowflake-anslutningen i Adobe Campaign Classic.
 Du kommer att lära dig hur
 
-* Anslut till snöflinga
-* Skapa ett schema länkat till snöflake
+* Anslut till Snowflake
+* Skapa ett schema länkat till Snowflake
 * Utöka ditt schema och förbered dina data
 * Skapa arbetsflöden och frågor
 * Förstå vad som händer i Snowflake
