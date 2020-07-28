@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Du måste kunna generera en SSH-nyckel för att kunna lägga till den på Kontro
 
 Om du vill få åtkomst till SFTP-hantering på Kontrollpanelen går du till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Kontrollpanelens** kort > **SFTP** -kort
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **SFTP** card
 
    eller
 * Direkt från webbadressen: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
