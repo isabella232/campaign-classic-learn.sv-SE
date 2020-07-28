@@ -1,36 +1,35 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic - självstudiekurser
+user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Självstudiekurser
+tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Campaign Classic - självstudiekurser {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Översikt](/help/acc/overview.md)
 + Komma igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Utforska användargränssnittet i Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Utforska Adobe Campaign Classic användargränssnitt](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Skapa en kampanj och ett e-postmeddelande](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Skapa en lista med mottagare](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Skapa ett arbetsflöde](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Skapa ett målarbetsflöde](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Hantera startvärden och korrektur i ett e-postmeddelande](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Skapa ett arbetsflöde](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Målinriktade profiler i ett arbetsflöde](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importera profiler](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 2%
    + E-postkanal{#email-channel}
       + [Skapa en kampanj och ett e-postmeddelande](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Hantera startvärden och korrektur i ett e-postmeddelande](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Anpassa e-postmeddelanden med personaliseringsfält](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/acc/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-kanal {#push-channel}
@@ -84,5 +85,5 @@ ht-degree: 2%
          + [Dekrypterar data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Felsöka Kontrollpanelen](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Åtkomst till en extern databas (FDA) {#fda}
-      + [Big data management på [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Big data management på Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
