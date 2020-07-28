@@ -1,5 +1,5 @@
 ---
-title: E-postleveransaktivitet jämfört med leveransaktivitet i Adobe Campaign Classic
+title: E-postleveransaktivitet kontra leveransaktivitet i Adobe Campaign Classic
 description: I den här videon beskrivs hur du konfigurerar och använder en leveransmall.
 feature: Delivery Templates
 topics: Templates
