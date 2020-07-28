@@ -28,18 +28,18 @@ Användaren måste hitta sitt IMS-organisations-ID (xxx). Administratören måst
 ### Symptom: Länkar i Experience Cloud Hem som du vill få åtkomst till visas [!UICONTROL Control Panel] inte för en användare
 
 **Orsak:**
-Användarna kan inte se länkarna förrän de har lagts till som användare i produktprofilkampanjen _xxx-Administratörer/Admin_.
+Användarna kan inte se länkarna förrän de läggs till som användare i produktprofilen&quot;Campaign-xxx-Administrators/Admin&quot;
 
 **Så här gör du:**
-Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-Admins_ för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser kan han eller hon fortfarande behöva lägga till sig själv som&quot;användare&quot;.
+Administratören måste lägga till användaren i produktprofilen&quot;Campaign-xxx-Admins&quot; för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser kan han eller hon fortfarande behöva lägga till sig själv som&quot;användare&quot;.
 
 ### Symptom: En instans visas inte i listan [!UICONTROL Control Panel]
 
 **Orsak:**
-Den mest troliga användaren måste läggas till som en&quot;användare&quot;-produktprofil _Campaign-xxx-Administrators/Admin_ för den instans som saknas
+Den mest troliga användaren måste läggas till som en användarproduktprofil,&quot;Campaign-xxx-Administrators/Admin&quot;, för den instans som saknas
 
 **Så här gör du:**
-Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-Admins_ för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser kan han eller hon fortfarande behöva lägga till sig själv som&quot;användare&quot;.
+Administratören måste lägga till användaren i produktprofilen&quot;Campaign-xxx-Admins&quot; för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser kan han eller hon fortfarande behöva lägga till sig själv som&quot;användare&quot;.
 
 ### Användbara videor
 
