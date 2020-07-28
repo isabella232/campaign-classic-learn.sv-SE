@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Så här använder du granskningsspåret
 
-[!UICONTROL Audit Trail] i realtid innehåller en omfattande lista över åtgärder och händelser som inträffar i Adobe Campaign. Funktionerna [!UICONTROL Audit Trail] innehåller ett självbetjäningssätt för att få tillgång till en historik med data som kan hjälpa dig att svara på frågor som:
+Granskningsspår innehåller i realtid en omfattande lista över åtgärder och händelser som inträffar i Adobe Campaign. Granskningsspårningsfunktionen har ett självbetjäningssätt för att få tillgång till en datahistorik och besvara frågor som:
 
 * Vad hände med ett objekt?
 * Vem ändrade den sist och när?
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >Granskningsspår kräver Campaign Classic version 19.1 eller senare
 
-Operatoråtgärder för att skapa, ändra och ta bort arbetsflöden, alternativ och källschema [!UICONTROL Audit Trail] loggas och listas. Dessutom loggas följande åtgärder specifikt för arbetsflöden:
+Granskningsspåraren loggar och listar operatoråtgärder, som skapande, ändring och borttagning för arbetsflöden, alternativ och källschema. Dessutom loggas följande åtgärder specifikt för arbetsflöden:
 
 * Starta
 * Pausa
