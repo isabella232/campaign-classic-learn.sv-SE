@@ -1,6 +1,6 @@
 ---
-title: Utforska användargränssnittet i Adobe Campaign Classic
-description: I den här lektionen förklaras huvudgränssnittet i Adobe Campaign Classic och du får se hur du navigerar i huvudfunktionerna.
+title: Utforska Adobe Campaign Classic användargränssnitt
+description: I den här lektionen förklaras Adobe Campaign Classic huvudgränssnitt och hur du navigerar i huvudfunktionerna.
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -18,9 +18,9 @@ ht-degree: 2%
 ---
 
 
-# Utforska användargränssnittet i Adobe Campaign Classic
+# Utforska Adobe Campaign Classic användargränssnitt
 
-I den här lektionen förklaras huvudgränssnittet i Adobe Campaign Classic och du får se hur du navigerar i huvudfunktionerna.
+I den här lektionen förklaras Adobe Campaign Classic huvudgränssnitt och hur du navigerar i huvudfunktionerna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
