@@ -24,7 +24,7 @@ På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och 
 
 Om du vill få åtkomst till Subdomain Management i [!UICONTROL Control Panel]går du till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** kort > **[!UICONTROL Subdomains & Certificates]** kort
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** kort > **[!UICONTROL Subdomains & Certificates]** kort
 
    eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
