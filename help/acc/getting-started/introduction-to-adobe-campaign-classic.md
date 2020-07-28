@@ -1,6 +1,6 @@
 ---
 title: Introduktion till Adobe Campaign Classic
-description: I den här videon förklaras hur Adobe Campaign Classic passar in i Adobe Digital Experience-portföljen, liksom dess primära funktioner och funktioner.
+description: I den här videon förklaras hur Adobe Campaign Classic passar in i Adobe Digital Experience-portfolio samt dess primära funktioner.
 feature: null
 topics: Getting started
 kt: 5457
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Introduktion till Adobe Campaign Classic
 
-I den här videon förklaras hur Adobe Campaign Classic passar in i Adobe Digital Experience-portföljen, liksom dess primära funktioner och funktioner.
+I den här videon förklaras hur Adobe Campaign Classic passar in i Adobe Digital Experience-portfolio samt dess primära funktioner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
