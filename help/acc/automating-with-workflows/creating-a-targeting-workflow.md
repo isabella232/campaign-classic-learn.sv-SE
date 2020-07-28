@@ -1,6 +1,6 @@
 ---
 title: Skapa ett målarbetsflöde
-description: Adobe Campaign Classic använder arbetsflöden för att genomföra riktade kampanjer, skapa kampanjer eller köra Adobe Campaign tekniska processer. I den här videon kommer vi att fokusera på arbetsflöden för målinriktning. Med målarbetsflöden kan du skapa flera leveransmål.
+description: Adobe Campaign Classic använder arbetsflöden för att genomföra riktade kampanjer, bygga kampanjer eller köra Adobe Campaign tekniska processer. I den här videon kommer vi att fokusera på arbetsflöden för målinriktning. Med målarbetsflöden kan du skapa flera leveransmål.
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
