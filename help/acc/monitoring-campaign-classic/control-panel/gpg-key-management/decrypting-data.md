@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # Dekrypterar data
 
 Med kontrollpanelen kan du dekryptera externa data som kommer in i dina Adobe Campaign-instanser med hjälp av ett nyckelpar för offentlig/privat nyckel.
-Lär dig hur du skapar en offentlig nyckel och importerar och installerar den på en [!DNL Campaign] instans för dekryptering av inkommande data.
+Lär dig hur du skapar en offentlig nyckel och importerar och installerar den på en Campaign-instans för dekryptering av inkommande data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
