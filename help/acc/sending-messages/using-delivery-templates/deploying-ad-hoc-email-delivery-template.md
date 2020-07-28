@@ -1,5 +1,5 @@
 ---
-title: Distribuera en mall för ad hoc-e-postleverans i Adobe Campaign Classic
+title: Distribuera en mall för tillfällig e-postleverans i Adobe Campaign Classic
 description: 'I den här videon förklaras hur du distribuerar en e-postleveransmall och den förklarar skillnaden mellan en e-postleverans och ett leveransarbetsflöde. '
 feature: Delivery Templates
 topics: Templates
