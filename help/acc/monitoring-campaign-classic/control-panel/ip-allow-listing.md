@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,14 @@ ht-degree: 0%
 
 På Kontrollpanelen kan du konfigurera nya anslutningar till dina instanser genom att tillåta listning av IP-adressintervall. Som standard är en Adobe Campaign Classic-instans inte tillgänglig från olika IP-adresser. Därför måste en IP-adress anges:
 
-* Om du vill tillåta åtkomst till Campaign-instansen från den här IP-adressen
+* Tillåt åtkomst till [!DNL Campaign] instansen från den här IP-adressen
 * Ansluta ett API till ditt meddelandecenter eller en marknadsföringsinstans
 
 ## Åtkomst till inställningar för kontrollpanelsinstansen
 
 Gå till följande för att få åtkomst till hantering av underdomäner på Kontrollpanelen:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Instances Settings** card
-
-   eller
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** cardor
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## Så här använder du IP-adresser för tillåtelselista
