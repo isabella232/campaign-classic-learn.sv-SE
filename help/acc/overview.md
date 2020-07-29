@@ -4,9 +4,9 @@ description: Adobe Campaign utgör en plattform för att utforma kundupplevelser
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 
 * **[GPG-nyckelhantering](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven Campaign-instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
+   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven[!UICONTROL Campaign]instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
 
 * **[Delegera underdomäner (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
