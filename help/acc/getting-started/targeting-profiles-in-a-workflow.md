@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 1%
+source-wordcount: '129'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett ar
 
 * [Förfina mål genom att kombinera frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Förfina mål genom att utesluta frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Skapa listor med ett arbetsflöde](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [Skapa en lista med ett arbetsflöde med aktiviteten Uppdatera lista](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Ytterligare resurser
 
@@ -35,7 +35,7 @@ Dokumentation:
 
 * [om arbetsflöden](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Skapa ett arbetsflöde](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
-* [Om målinriktade aktiviteter](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
+* [Om målaktiviteter](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 Tutorials:
 
