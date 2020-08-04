@@ -4,9 +4,9 @@ description: Adobe Campaign utgör en plattform för att utforma kundupplevelser
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 1%
 
 ---
@@ -49,28 +49,28 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Granskningsspår (video)" src="./assets/acc-audit-trail.png" />
+      <img alt="Granskningsspår (video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Granskningsspår</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Få en omfattande lista över åtgärder och händelser som inträffar i Adobe Campaign.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="Anpassa e-postmeddelanden med dynamiska innehållsblock (video)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Definiera interaktivt e-postinnehåll med AMP (video)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>Anpassa e-postmeddelanden med dynamiska innehållsblock</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Definiera interaktivt e-postinnehåll med AMP</strong>
     </a>
     </div>
     <p>
-    <em>Anpassa meddelanden med kriterier från mottagarprofiler. </em>
+    <em>Lär dig hur du aktiverar och använder AMP i Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
