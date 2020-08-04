@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 582f04026f6db0823f3de1e3e0cf57c642c2e84f
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,12 @@ ht-degree: 1%
 Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och målprofiler i ett arbetsflöde med filtervillkor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+
+## Nästa Tutorials att titta på
+
+* [Förfina mål genom att kombinera frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Förfina mål genom att utesluta frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Skapa listor med ett arbetsflöde](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
 
 ## Ytterligare resurser
 
@@ -35,5 +41,3 @@ Tutorials:
 
 * [Skapa och hantera profiler](/help/acc/profile-management/create-and-manage-profiles.md)
 * [Importera profiler](/help/acc/data-management/importing-profiles.md)
-* [Skapa en lista med mottagare](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [Skapa en lista med mottagare med ett arbetsflöde](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
