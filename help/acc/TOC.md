@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Dokumentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 # Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Översikt](/help/acc/overview.md)
-+ Komma igång {#getting-started}
++ Getting Started {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Utforska Adobe Campaign Classic användargränssnitt](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/acc/getting-started/managing-marketing-campaigns.md)
@@ -34,7 +34,7 @@ ht-degree: 2%
    + [Skapa en lista med mottagare](/help/acc/profile-management/creating-a-list-of-recipients.md)
    + [Skapa en lista med mottagare med ett arbetsflöde](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Skicka meddelanden{#sending-messages}
-   + E-postkanal{#email-channel}
+   + Email Channel{#email-channel}
       + [Skapa en kampanj och ett e-postmeddelande](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Hantera startvärden och korrektur i ett e-postmeddelande](/help/acc/sending-messages/managing-seed-and-proofs.md)
       + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -60,7 +60,7 @@ ht-degree: 2%
    + [Skapa ett målarbetsflöde](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Förfina mål genom att kombinera frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Förfina mål genom att utesluta frågeresultat](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [Skapa listor med ett arbetsflöde](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [Skapa en lista med ett arbetsflöde med aktiviteten Uppdatera lista](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [Konfigurera valideringsarbetsflöden](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurera anrikningsaktiviteter](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/acc/data-management/data-segmentation.md)
