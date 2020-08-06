@@ -1,6 +1,6 @@
 ---
 title: Delegera underdomäner
-description: 'Med kontrollpanelen Adobe Campaign kan du delegera en underdomän till Adobe Campaign helt. Gör så här:'
+description: 'Med Adobe Campaign Kontrollpanel kan du delegera en underdomän helt till Adobe Campaign. Gör så här:'
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: ce29e5dc91fad713ac0d19752dd8f84f9889df38
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 11%
+ht-degree: 36%
 
 ---
 
@@ -19,15 +19,14 @@ ht-degree: 11%
 # Delegera underdomäner
 
 >[!NOTE]
-
-> Delegering från underdomäner från [!UICONTROL Control Panel] är i betaversion och lyder under
-> regelbundna uppdateringar och ändringar utan föregående meddelande.
+>
+> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
-## Åtkomst till [!UICONTROL Control Panel] hantering av underdomäner
+## Åtkomst till [!UICONTROL Control Panel] för att hantera underdomäner
 
-Om du vill få åtkomst till Subdomain Management i [!UICONTROL Control Panel]går du till:
+För att få åtkomst till hantering av underdomäner via [!UICONTROL Control Panel] ska du gå till:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Subdomains &amp; Certificates** cardor
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
