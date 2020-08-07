@@ -5,15 +5,15 @@ user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
+tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 2%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
@@ -71,23 +71,22 @@ ht-degree: 2%
    + [Granskningsspår](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + Integrera {#integrating}
    + [Integrera Dynamics 365 med Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
-+ Administrerar {#administrating}
++ Administrera {#administrating}
    + Kontrollpanelen {#control-panel-acc}
       + [Översikt över kontrollpanelen](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Övervaka serverkapacitet, tillåt listning av IP-adresser och lägga till SSH-nycklar](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generera en SSH-nyckel](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Ansluta till en SFTP-server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Delegera underdomäner](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Lägger till SSL-certifikat](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Hantera SSL-certifikat](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [Lägga till SSL-certifikat](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Lägga till URL-behörigheter](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [Lista över IP-tillåtna för instansåtkomst](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Hantera Google TXT-poster](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG-nyckelhantering {#gpg-key-management}
-         + [Nyckelhantering med GPG - översikt](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+      + Hantera GPG-nycklar {#gpg-key-management}
+         + [Hantera GPG-nycklar – översikt](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Generera och installera GPG-nycklar för datakryptering](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Kryptera data med en GPG-nyckel](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Dekrypterar data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
+         + [Dekryptera data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Felsöka Kontrollpanelen](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Åtkomst till en extern databas (FDA) {#fda}
       + [Big data management på [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
