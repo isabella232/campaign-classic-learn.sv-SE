@@ -1,7 +1,7 @@
 ---
 title: Kontrollpanelen
 seo-title: Kontrollpanelen
-description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtelselista IP-adresser.
+description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
 seo-description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
 feature: Control Panel
 topics: Control Panel
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->Termerna ”[!UICONTROL whitelist]” och ”[!UICONTROL blacklist]” har ersatts med ”[!UICONTROL allow list]” och ”[!UICONTROL block list]” i dokumentationen för Adobe Campaign.
+>Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allow list]&quot; och &quot;[!UICONTROL block list]&quot; i dokumentationen för Adobe Campaign.
 >Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
 Med [!UICONTROL Control Panel] kan administratörer i Adobe Campaign övervaka nyckelresurser och utföra administrativa uppgifter såsom att hantera SFTP-lagringen per instans eller [!UICONTROL allow list]-IP-adresser.
@@ -34,7 +34,7 @@ Gå till Experience Cloud Home på: [https://experiencecloud.adobe.com](https://
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    eller
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]-kort **
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kortet **[!UICONTROL Control Panel]**
 
    eller
 
@@ -59,11 +59,11 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
-## [!UICONTROL Control Panel] självstudiekurser
+## Självstudiekurser om [!UICONTROL Control Panel]
 
 * **Hantera SFTP-servrar**
 
-   *Lär dig hur du övervakar serverkapaciteten, IP-adresserna och lägger till SSH-nycklar[!UICONTROL allow list]*
+   *Läs mer om hur du övervakar serverkapaciteten,[!UICONTROL allow list]IP-adresser och lägger till SSH-nycklar*
 
    * [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generera en SSH-nyckel](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
@@ -71,23 +71,23 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 
 * **[Delegera underdomäner](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Läs mer om hur du helt delegerar en underdomän till[!UICONTROL Adobe Campaign]*
+   *Läs mer om hur du delegerar en underdomän till[!UICONTROL Adobe Campaign]*
 
 * **[Lägga till SSL-certifikat](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
-   *Lär dig hur du kan lägga till ett SSL-certifikat för att skydda dina underdomäner med hjälp av Kontrollpanelen.*
+   *Läs mer om hur du lägger till ett SSL-certifikat för att skydda underdomäner med kontrollpanelen.*
 
 * **[Lägga till URL-behörigheter](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
 
-   *hur du lägger till vissa externa URL:er i listan över auktoriserade URL:er, så att instansen kan ansluta till dem.*
+   *Så här lägger du till externa webbadresser i listan över auktoriserade webbadresser så att instansen kan anslutas till dem.*
 
-* **[Tillåtelselista med IP-adresser för åtkomst till instanser](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Tillåtslista IP-adresser för åtkomst till instanser](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
-   *Lär dig hur du konfigurerar nya anslutningar till dina instanser med[!UICONTROL allow listing]IP-adressintervall.*
+   *Läs mer om hur du konfigurerar nya anslutningar till instanserna genom att[!UICONTROL allow listing]IP-adressintervall.*
 
 * **[Hantera Google TXT-poster](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
 
-   *Lär dig hur du lägger till[!DNL Google TXT]platsverifieringspost i alla dina underdomäner som används för att skicka e-post till[!DNL GMAIL]adresser via[!UICONTROL Campaign Control Panel].*
+   *Läs mer om hur du lägger till[!DNL Google TXT]-poster för webbplatsverifiering i alla underdomäner som används för att skicka e-post till[!DNL GMAIL]-adresser via[!UICONTROL Campaign Control Panel].*
 
 * **Hantera GPG-nycklar**
 
