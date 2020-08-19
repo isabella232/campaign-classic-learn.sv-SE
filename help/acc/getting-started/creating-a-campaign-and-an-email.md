@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,5 +24,5 @@ I den här videon förklaras hur du skapar en kampanj och ett e-postmeddelande i
 
 ## Ytterligare resurser
 
-* [Användningsfall: skapa e-postleverans](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [Bygga ett arbetsflöde (dokumentation)](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [Användningsfall: skapa en e-postleverans](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
+* [Bygga ett arbetsflöde (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
