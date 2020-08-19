@@ -10,8 +10,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
