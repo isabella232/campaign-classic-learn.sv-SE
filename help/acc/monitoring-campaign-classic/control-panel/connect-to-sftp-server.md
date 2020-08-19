@@ -1,6 +1,6 @@
 ---
 title: Ansluta till en SFTP-server
-description: I den här videon förklaras hur du ansluter till SFTP-servern med ett klient-SFTP-program med hjälp av tangenterna som du har sparat på Kontrollpanelen.
+description: I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 2924
@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,24 +18,24 @@ ht-degree: 0%
 
 # Ansluta till en SFTP-server
 
-## Åtkomst till SFTP-hantering på Kontrollpanelen
+## Komma åt SFTP-hantering på kontrollpanelen
 
-Om du vill få åtkomst till SFTP-hantering på Kontrollpanelen går du till:
+För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > kortet **Kontrollpanelen** > kortet **SFTP**
 
    eller
 * Direkt från webbadressen: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## Ansluta till en SFTP-server
+## Så här ansluter du till en SFTP-server
 
-Anslutning till SFTP-servrar kräver:
+För att ansluta till SFTP-servrar krävs:
 
-* tillåt att du anger IP-adressen som du ansluter till SFTP-servern från
-* Privat/offentligt nyckelpar som måste registreras i Adobe Campaign
-* Om du ansluter till SFTP-servern direkt behöver du också SFTP-klientprogramvara
+* att IP-adressen som används för att ansluta till SFTP-servern tillåtslistas
+* ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
+* Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
 
-I den här videon förklaras hur du ansluter till SFTP-servern med ett klient-SFTP-program med hjälp av tangenterna som du har sparat på Kontrollpanelen.
+I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
 *Ansluta till en SFTP-server (02:04 min)*
