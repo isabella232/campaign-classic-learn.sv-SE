@@ -1,6 +1,6 @@
 ---
 title: Generera en SSH-nyckel
-description: Du måste kunna generera en SSH-nyckel för att kunna lägga till den på kontrollpanelen Adobe Campaign. I videon nedan beskrivs hur du skapar en SSH-nyckel med hjälp av en terminal.
+description: Du måste kunna generera en SSH-nyckel för att kunna lägga till den på kontrollpanelen i Adobe Campaign. I videon nedan förklaras hur du skapar en SSH-nyckel med hjälp av en terminal.
 feature: SSH Key
 topics: Control Panel
 kt: 2923
@@ -10,28 +10,28 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
 
 # Generera en SSH-nyckel
 
-Du måste kunna generera en SSH-nyckel för att kunna lägga till den på Kontrollpanelen.
+Du måste kunna generera en SSH-nyckel för att kunna lägga till den på kontrollpanelen.
 
-## Åtkomst till SFTP-hantering på Kontrollpanelen
+## Komma åt SFTP-hantering på kontrollpanelen
 
-Om du vill få åtkomst till SFTP-hantering på Kontrollpanelen går du till:
+För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > kortet **Kontrollpanelen** > kortet **SFTP**
 
    eller
 * Direkt från webbadressen: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## Generera en SSH-nyckel
+## Så genererar du en SSH-nyckel
 
-I videon nedan beskrivs hur du skapar en SSH-nyckel med hjälp av en terminal.
+I videon nedan förklaras hur du skapar en SSH-nyckel med hjälp av en terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*Skapa en SSH-nyckel (2:16 min)*
+*Så här genererar du en SSH-nyckel (2:16 min)*
