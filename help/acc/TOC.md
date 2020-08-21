@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
+source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
@@ -49,7 +49,7 @@ ht-degree: 76%
       + [Ställa in egenskaper för leveransmallar](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuera en ad-hoc-leveransmall för e-post](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Direktmeddelande {#direct-mail}
-      + [Skapa direktreklam](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Skapa direktreklam](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Använda fördefinierade filter](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
