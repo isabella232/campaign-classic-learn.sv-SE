@@ -1,24 +1,25 @@
 ---
-title: 'Skapa en kampanj och ett e-postmeddelande '
-description: I den här videon förklaras hur du skapar en kampanj och ett e-postmeddelande i Adobe Campaign Classic.
+title: Skapa ett e-postmeddelande från en kampanj
+description: Lär dig hur du skapar e-postleveranser direkt från en kampanj.
 feature: Email
-topics: Getting started
+topics: null
 kt: 2172
+thumbnail: 25604.jpg
 doc-type: feature video
-activity: setup
+activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 48%
 
 ---
 
 
-# Skapa en kampanj och ett e-postmeddelande
+# Skapa ett e-postmeddelande från en kampanj
 
-I den här videon förklaras hur du skapar en kampanj och ett e-postmeddelande i Adobe Campaign Classic.
+Lär dig hur du skapar e-postleveranser direkt från en kampanj.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
