@@ -3,23 +3,23 @@ title: Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med 
 description: Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel på ett flerspråkigt nyhetsbrev.
 feature: Dynamic Content Blocks
 topics: Email Channel
-kt: 1559
+kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 1%
+ht-degree: 35%
 
 ---
 
 
 # Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll
 
-Genom att konfigurera villkorliga innehållsfält kan du skapa avancerad personalisering. Kompletta textblock och/eller bilder ersätts när ett visst villkor uppfylls.
+Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad personalisering. Fullständiga textblock och/eller bilder ersätts när ett visst villkor uppfylls.
 
 Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel på ett flerspråkigt nyhetsbrev.
 
@@ -29,7 +29,7 @@ Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel
 
 Dokumentation:
 
-* [Om personalisering](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Om personalisering](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [Villkorligt innehåll](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
 Video Tutorials:
