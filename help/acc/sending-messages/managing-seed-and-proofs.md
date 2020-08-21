@@ -1,28 +1,29 @@
 ---
 title: Hantera startvärden och korrektur i ett e-postmeddelande
-description: I den här videon får du lära dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
-feature: Seed address management
-topics: Email Channel
+description: Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # Hantera startvärden och korrektur i ett e-postmeddelande
 
-I den här videon får du lära dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
+Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
 ## Ytterligare resurser
 
-- [Skicka ett bevis](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
+- [Skicka en korrektur](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
 - [Fröadresser](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
