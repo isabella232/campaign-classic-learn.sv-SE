@@ -9,9 +9,9 @@ doc-type: feature video
 activity: set-up
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 119e622cb267077b12811861953030d382c47ded
+source-git-commit: 2471d1cef630d7c80aeaf43d1eef7b8583bee2d3
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Skapa direktreklam
 
-Lär dig hur direktreklam fungerar i Adobe Campaign och hur du skapar, formaterar och kör direktreklam.
+Lär dig hur [!UICONTROL direct mail] fungerar i [!UICONTROL Adobe Campaign] och hur du skapar, formaterar och kör en [!UICONTROL direct mail ]leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
