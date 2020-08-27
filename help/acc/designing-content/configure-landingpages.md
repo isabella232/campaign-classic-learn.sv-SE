@@ -1,6 +1,6 @@
 ---
 title: Konfigurera landningssidor i Adobe Campaign Classic
-description: Med Adobe Campaign Classic kan du designa och lägga upp en mängd olika webbsidor på servern, inklusive online-enkäter, inställningscenter och avbeställningssidor. I den här videon visas hur du navigerar i Adobe Campaign webbprogramredigerare genom att skapa ett inställningscenter.
+description: Med Adobe Campaign Classic kan du designa och lägga upp en mängd olika landningssidor på servern, inklusive online-enkäter, inställningscenter och avbeställningssidor. I den här videon visas hur du navigerar i Adobe Campaign webbprogramredigerare genom att skapa ett inställningscenter.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -9,9 +9,9 @@ doc-type: feature video
 activity: setup
 team: DOC
 translation-type: tm+mt
-source-git-commit: 4a0f1fd9de07e5d81f3fcc1db93b4b27ac2e75b1
+source-git-commit: 25c52ebde4c815fd7073dffb90973afc86b7bffb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Konfigurera landningssidor
 
-Med Adobe Campaign Classic kan du designa och lägga upp en mängd olika webbsidor på servern, inklusive online-enkäter, inställningscenter och avbeställningssidor.
+Med Adobe Campaign Classic kan du designa och lägga upp en mängd olika landningssidor på servern, inklusive online-enkäter, inställningscenter och avbeställningssidor.
 
 I den här videon visas hur du navigerar i Adobe Campaign webbprogramredigerare genom att skapa ett inställningscenter.
 
