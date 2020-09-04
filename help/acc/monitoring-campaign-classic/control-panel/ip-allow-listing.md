@@ -1,24 +1,25 @@
 ---
-title: Tillåtslista IP-adresser för åtkomst till instanser
-seo-title: Tillåtslista IP-adresser för åtkomst till instanser
-description: I videon nedan förklaras hur du konfigurerar nya anslutningar till instanser genom att tillåtslista IP-adressintervall.
+title: Lägga till IP-adresser till tillåtelselista
+seo-title: Lägga till IP-adresser till tillåtelselista
+description: Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 seo-description: I videon nedan förklaras hur du konfigurerar nya anslutningar till instanser genom att tillåtslista IP-adressintervall.
-feature: IP allow listing
-topics: Control Panel
+feature: instance settings
+topics: null
 kt: 3479
+thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 64%
 
 ---
 
 
-# Tillåtslista IP-adresser för åtkomst till instanser
+# Lägga till IP-adresser till tillåtelselista
 
 Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. En IP-adress måste därför tillåtslistas:
 
@@ -33,11 +34,10 @@ Om du vill få åtkomst till hantering av underdomäner på kontrollpanelen mås
 eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Så tillåtslistar du IP-adresser
+## Lägg till ett IP-intervall till instansens tillåtelselista
 
-I videon nedan förklaras hur du använder kontrollpanelen för att tillåtslista IP-adresser.
+Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*Tillåtslista IP-adresser (03:24 min)*
 
 Se den [detaljerade produktdokumentationen](https://helpx.adobe.com/se/campaign/kb/control-panel-instance-settings.html) för mer information om att tillåtslista IP-adresser.
