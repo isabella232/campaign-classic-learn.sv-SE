@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '356'
-ht-degree: 76%
+ht-degree: 74%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 76%
       + [Delegera underdomäner](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [Lägga till SSL-certifikat](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Lägga till URL-behörigheter](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Tillåtslista IP-adresser för åtkomst till instanser](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [Lägga till IP-adresser till tillåtelselista](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Hantera Google TXT-poster](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Hantera GPG-nycklar {#gpg-key-management}
          + [Hantera GPG-nycklar – översikt](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
