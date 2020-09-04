@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,7 +49,7 @@ Slutför följande förhandskrav innan du börjar:
 Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Kontrollera[!DNL IMS Org ID] (00:26 min)*
+*Kontrollera[!DNL IMS Org ID](00:26 min)*
 
 ### Administratörsrättigheter
 
@@ -57,7 +57,7 @@ Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel]
 I följande video förklaras hur du lägger till en administratör i en instans i Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel] (01:03 min)*
+*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
 ## Självstudiekurser om [!UICONTROL Control Panel]
 
@@ -81,7 +81,7 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 
    *Så här lägger du till externa webbadresser i listan över auktoriserade webbadresser så att instansen kan anslutas till dem.*
 
-* **[Tillåtslista IP-adresser för åtkomst till instanser](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Lägga till IP-adresser till tillåtelselista](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Läs mer om hur du konfigurerar nya anslutningar till instanserna genom att[!UICONTROL allow listing]IP-adressintervall.*
 
