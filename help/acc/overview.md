@@ -4,15 +4,15 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
+source-git-commit: 49a02cd20248dbba49663bb9be380ab44e8b5062
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 92%
 
 ---
 
 
-# Översikt
+# Självstudiekurser om Adobe Campaign Classic – översikt
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Classic.
 
