@@ -1,7 +1,7 @@
 ---
-title: Kontrollpanelen
+title: Kontrollpanelen - Översikt
 seo-title: Kontrollpanelen
-description: På Kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller tillåtelselista IP-adresser.
+description: På Kontrollpanelen kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 85%
+source-wordcount: '197'
+ht-degree: 72%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] Översikt
 
 >[!NOTE]
 >
->Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allow list]&quot; och &quot;[!UICONTROL block list]&quot; i dokumentationen för Adobe Campaign.
->Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
+>Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
-Med [!UICONTROL Control Panel] kan administratörer i Adobe Campaign övervaka nyckelresurser och utföra administrativa uppgifter såsom att hantera SFTP-lagringen per instans eller [!UICONTROL allow list]-IP-adresser.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Komma åt [!UICONTROL Control Panel]
 
@@ -53,7 +52,7 @@ Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du 
 ### Administratörsrättigheter
 
 Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel].
-I följande video förklaras hur du lägger till en administratör i en instans i Campaign
+I följande video förklaras hur du lägger till en administratör i en instans i Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
