@@ -4,11 +4,12 @@ description: I den här videon förklaras hur du ansluter till en SFTP-server me
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 2924
+thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 7f25638cb16ed58d3e7ba37bc21cf8e7e0ec657d
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
