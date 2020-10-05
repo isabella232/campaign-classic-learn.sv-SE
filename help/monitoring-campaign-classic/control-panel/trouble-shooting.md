@@ -47,7 +47,7 @@ Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-
 *Kontrollera ett IMS-organisations-ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Så här lägger du till en administratör i produktprofilen administratörer för att kunna använda[!UICONTROL Control panel](01:03 min)*
+*Så här lägger du till en administratör i produktprofilen administratörer för att kunna använda [!UICONTROL Control panel] (01:03 min)*
 
 ### Användbar dokumentation
 
