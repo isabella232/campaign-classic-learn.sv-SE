@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -41,6 +41,7 @@ Begäran om certifikatsignering (CSR) krävs för köp av ett SSL-certifikat. De
 I videon nedan förklaras hur du skapar en begäran om certifikatsignering på kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *Skapa en begäran om certifikatsignering (02:36 min)*
 
 ### 2. Köpa SSL-certifikat
@@ -54,6 +55,7 @@ När du har fått SSL-certifikatet måste det installeras för de underdomäner 
 I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *Installera SSL-certifikat (01:25 min)*
 
 ## Ytterligare resurser
