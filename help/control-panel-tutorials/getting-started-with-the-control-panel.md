@@ -1,18 +1,18 @@
 ---
 title: Komma igång med Kontrollpanelen
-description: På Kontrollpanelen kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+description: I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 feature: Control Panel
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '217'
+ht-degree: 63%
 
 ---
 
@@ -24,6 +24,8 @@ ht-degree: 68%
 >Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 
 ## Komma åt [!UICONTROL Control Panel]
 
