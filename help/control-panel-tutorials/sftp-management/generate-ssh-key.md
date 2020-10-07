@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 63%
@@ -35,4 +35,5 @@ För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till
 Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *Så här genererar du en SSH-nyckel (2:16 min)*
