@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -44,10 +44,12 @@ Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-
 ### Användbara videor
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Kontrollera ett IMS-organisations-ID (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Så här lägger du till en administratör i produktprofilen administratörer för att kunna använda [!UICONTROL Control panel] (01:03 min)*
+
+*Så här lägger du till en administratör i produktprofilen administratörer för att kunna använda[!UICONTROL Control panel](01:03 min)*
 
 ### Användbar dokumentation
 
