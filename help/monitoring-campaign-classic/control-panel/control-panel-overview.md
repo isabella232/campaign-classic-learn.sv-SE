@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 98%
@@ -49,6 +49,7 @@ Slutför följande förhandskrav innan du börjar:
 Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Kontrollera[!DNL IMS Org ID](00:26 min)*
 
 ### Administratörsrättigheter
@@ -57,6 +58,7 @@ Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel]
 I följande video förklaras hur du lägger till en administratör i en instans i Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
 ## Självstudiekurser om [!UICONTROL Control Panel]
