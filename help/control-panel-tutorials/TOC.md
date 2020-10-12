@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Kontrollpanel Tutorials
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller tillåtelselista IP-adresser.
+breadcrumb-title: Självstudiekurser om kontrollpanelen
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
+source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 80%
+source-wordcount: '158'
+ht-degree: 60%
 
 ---
 
@@ -26,9 +26,11 @@ ht-degree: 80%
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
 + [Komma igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
+   + SFTP-hantering {#sftp-management}
+   + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [Lägga till ett IP-intervall i tillåtelselista](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + Underdomäner och certifikat {#subdomains-and-certificates}
    + [Delegera underdomäner](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
