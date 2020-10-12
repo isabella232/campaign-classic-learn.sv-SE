@@ -13,9 +13,9 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 60%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 60%
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
 + [Komma igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
-   + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Lägga till ett IP-intervall i tillåtelselista](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
