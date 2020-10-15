@@ -12,11 +12,11 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -29,20 +29,20 @@ ht-degree: 74%
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Skapa en kampanj och ett e-postmeddelande](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [Målinriktade profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
-+ Profile Management {#profile-management}
+   + [Skapa en kampanj och ett e-postmeddelande](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
++ Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Importera profiler](/help/data-management/importing-profiles.md)
    + [Skapa en lista med mottagare](/help/profile-management/creating-a-list-of-recipients.md)
-   + [Skapa en lista med mottagare med ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+   + [Skapa en lista med mottagare med hjälp av ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
       + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [Hantera databas och korrektur i ett e-postmeddelande](/help/sending-messages/managing-seed-and-proofs.md)
-      + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [Anpassa e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personalisera e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-kanal {#push-channel}
@@ -52,7 +52,7 @@ ht-degree: 74%
       + [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuera en ad-hoc-leveransmall för e-post](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Direktmeddelande {#direct-mail}
-      + [Skapa direktreklam](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Skapa leveranser med direktutskick](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Använda fördefinierade filter](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -64,8 +64,8 @@ ht-degree: 74%
    + [Skapa ett arbetsflöde](/help/automating-with-workflows/creating-a-workflow.md)
    + [Skapa ett målarbetsflöde](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Förfina mål genom att kombinera frågeresultat](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [Förfina mål genom att utesluta frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [Skapa en lista med ett arbetsflöde med aktiviteten Uppdatera lista](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Konfigurera valideringsarbetsflöden](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
@@ -85,7 +85,7 @@ ht-degree: 74%
       + [Delegera underdomäner](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [Lägga till SSL-certifikat](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Lägga till URL-behörigheter](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Lägga till IP-adresser till tillåtelselista](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [Lägga till IP-adresser på tillåtelselistor](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Hantera Google TXT-poster](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Hantera GPG-nycklar {#gpg-key-management}
          + [Hantera GPG-nycklar – översikt](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
