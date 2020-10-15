@@ -3,11 +3,11 @@ title: Självstudiekurser om Adobe Campaign Classic – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Hantera GPG-nycklar](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i[!UICONTROL Campaign]för att kryptera utgående data och hur du importerar och installerar en offentlig nyckel på en instans i Campaign för att dekryptera inkommande data.*
+   *Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i [!UICONTROL Campaign] för att kryptera utgående data och hur du importerar och installerar en offentlig nyckel på en instans i Campaign för att dekryptera inkommande data.*
 
 * **[Delegera underdomäner (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -70,7 +70,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du aktiverar och använder AMP i Adobe Campaign Classic </em>
+    <em>Lär om hur du aktiverar och använder AMP i Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
