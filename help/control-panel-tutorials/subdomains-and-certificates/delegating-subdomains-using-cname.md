@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 60a9359f42f05ac21f4130c16bd5de1353d679f9
+source-git-commit: 676737c1c273aca39a56210724199ab540317c78
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 22%
@@ -27,7 +27,7 @@ För att kunna börja skicka e-post eller publicera landningssidor med Adobe Cam
 
 Lär dig hur du konfigurerar och skickar en underdomän med CNAME på Kontrollpanelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12))
+>[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## Ytterligare resurser
 
