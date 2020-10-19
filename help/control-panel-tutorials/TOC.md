@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 75%
+source-wordcount: '163'
+ht-degree: 71%
 
 ---
 
@@ -31,7 +31,8 @@ ht-degree: 75%
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Underdomäner och certifikat {#subdomains-and-certificates}
-   + [Delegera underdomäner](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Fullständig underdomändelegering (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Hantera Google TXT-poster](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instansinställningar {#instance-settings}
