@@ -13,10 +13,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 92%
+source-wordcount: '324'
+ht-degree: 88%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 92%
 + Integrera {#integrating}
    + [Så här integrerar du Dynamics 365 med Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
-   + Kontrollpanelen {#control-panel-acc}
-      + [Översikt över kontrollpanelen](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Generera en SSH-nyckel](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [Ansluta till en SFTP-server](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [Delegera underdomäner](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Lägga till SSL-certifikat](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Lägga till URL-behörigheter](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Lägga till IP-adresser på tillåtelselistor](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Hantera Google TXT-poster](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + Hantera GPG-nycklar {#gpg-key-management}
-         + [Hantera GPG-nycklar – översikt](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generera och installera GPG-nycklar för datakryptering](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Kryptera data med en GPG-nyckel](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Dekryptera data](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [Felsöka kontrollpanelen](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [Kontrollpanelen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
