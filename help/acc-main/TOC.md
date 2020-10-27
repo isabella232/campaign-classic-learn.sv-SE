@@ -2,8 +2,8 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
-user-guide-description: Adobe Campaign Classic gör det möjligt för marknadsförare att utforma flerkanaliga kundupplevelser och ger en miljö för visuell kampanjsamordning, interaktionshantering i realtid och flerkanalsmarknadsföring.
-breadcrumb-title: Campaign Classic Tutorials
+user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
+breadcrumb-title: Självstudiekurser om Campaign Classic
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -11,12 +11,11 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +76,6 @@ ht-degree: 88%
 + Integrera {#integrating}
    + [Så här integrerar du Dynamics 365 med Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
-   + [Kontrollpanelen](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
