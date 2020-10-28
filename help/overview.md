@@ -3,11 +3,11 @@ title: Självstudiekurser om Adobe Campaign Classic – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
+
+* **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Lär dig hur du övervakar databasanvändningen för dina instanser.*
 
 ## Personalens val
 
