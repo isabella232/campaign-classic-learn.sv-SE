@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 100%
 Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 
 ## Nyheter
+
+* **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Lär dig hur du övervakar databasanvändningen för dina instanser.*
 
 * **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
