@@ -12,10 +12,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
+source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 98%
 
 ---
 
@@ -42,4 +42,6 @@ ht-degree: 100%
       + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ Övervaka prestanda {#performance-monitoring}
+   + [Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Felsöka kontrollpanelen](/help/control-panel-tutorials/trouble-shooting.md)
