@@ -4,10 +4,10 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 94%
+source-wordcount: '233'
+ht-degree: 88%
 
 ---
 
@@ -18,13 +18,18 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Komma igång med push-meddelanden för Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
+
+   *I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign till en Android-app.*
+
+
 * **[Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
 
 * **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Lär dig hur du övervakar databasanvändningen för dina instanser.*
+   *Läs om hur du övervakar databasanvändningen på dina instanser.*
 
 ## Personalens val
 
