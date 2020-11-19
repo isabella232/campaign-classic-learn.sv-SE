@@ -1,5 +1,5 @@
 ---
-title: Introduktion till självstudiekurser
+title: Komma igång med push-meddelanden för Android - introduktion
 description: I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
 feature: push
 topics: mobile channels
@@ -8,15 +8,15 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
 
-# Introduktion till självstudiekurser
+# Komma igång med push-meddelanden för Android - introduktion
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. I den här självstudiekursen får du hjälp med att skicka [!DNL push] meddelanden från Adobe Campaign till en [!DNL Android] app.
 
