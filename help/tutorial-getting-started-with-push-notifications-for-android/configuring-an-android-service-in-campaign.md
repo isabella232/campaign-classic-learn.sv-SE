@@ -9,23 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
 
-# Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign
+# Konfigurera en [!DNL Android] tjänst och skapa ett [!DNL Android] mobilprogram i Campaign
 
-Lär dig hur du konfigurerar en Android-tjänst och skapar ett Android-mobilprogram i Campaign. Det här steget krävs för att du ska kunna definiera målappen för ett push-meddelande.
+Lär dig hur du konfigurerar en [!DNL Android] tjänst och skapar ett [!DNL Android] mobilprogram i Campaign. Det här steget krävs så att du kan definiera målmobilprogrammet för push-meddelandet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## Vad du ska titta på nästa
+**Föregående steg**
 
-**[Konfigurera och skicka push-meddelanden](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+Steg 1: [Utöka programmets prenumerationsschema för att anpassa push-meddelanden](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+**Nästa steg**
+
+Steg 3: [Konfigurera och skicka push-meddelanden](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## Ytterligare resurser
 
