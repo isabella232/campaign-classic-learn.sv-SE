@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -17,15 +17,15 @@ ht-degree: 2%
 ---
 
 
-# Utöka programmets prenumerationsschema för att anpassa push-meddelanden
+# Utöka [!UICONTROL app subscription] schemat för att anpassa push-meddelanden
 
-Lär dig hur du utökar appens prenumerationsschema för att kunna lagra personaliseringsvärden som Campaign tar emot från en mobilapp.
+Lär dig hur du utökar [!UICONTROL app subscription] schemat så att det kan lagra personaliseringsvärden som [!DNL Campaign] tas emot från en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## Vad du ska titta på nästa
+**Nästa steg**
 
-**[Konfigurera en Android-tjänst i Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)**
+Steg 2: [Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## Ytterligare resurser
 
