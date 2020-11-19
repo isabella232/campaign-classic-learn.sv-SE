@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 96%
+source-wordcount: '348'
+ht-degree: 92%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 96%
    + Push-kanal {#push-channel}
       + [Installera mobilappskanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Komma igång med push-meddelanden för Android (självstudiekurs)] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
    + Använda leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
