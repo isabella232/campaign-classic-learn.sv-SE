@@ -1,5 +1,5 @@
 ---
-title: Självstudie Komma igång med push-meddelanden för Android - introduktion
+title: Introduktion till självstudiekurser
 description: I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
 feature: push
 topics: mobile channels
@@ -8,49 +8,53 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 0%
+source-wordcount: '353'
+ht-degree: 2%
 
 ---
 
 
-# Självstudie Komma igång med push-meddelanden för Android - introduktion
+# Introduktion till självstudiekurser
 
-Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android ]mobile devices.
-
-I den här självstudiekursen får du hjälp med att skicka [!DNL push] meddelanden från Adobe Campaign till en [!DNL Android] app.
+Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. I den här självstudiekursen får du hjälp med att skicka [!DNL push] meddelanden från Adobe Campaign till en [!DNL Android] app.
 
 ## Förhandskrav
 
-Innan du kan börja måste du uppfylla följande krav:
+Innan du kan börja måste du ha följande:
 
-1) MobilprogramDen här självstudiekursen innehåller inte de detaljerade steg som krävs för att konfigurera mobilprogrammet. Du måste ha ett **[!DNL Android]mobilprogram med det[!DNL Campaign SDK]** integrerade.
+1) **Android-mobilprogram**
 
-   * Du hittar en detaljerad beskrivning av de steg som krävs i [Integrera Campaign SDK i mobilappen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html).
+   Den här självstudiekursen omfattar inte de detaljerade steg som krävs för att konfigurera mobilprogrammet. Du måste ha ett **[!DNL Android]mobilprogram med det [!DNL Campaign SDK] integrerade**.
 
-   * Du kan också använda Experience Platform Mobile SDK. Mer information finns i videon [Konfigurera push-kanalen med självstudiekursen Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html) .
+   Du hittar en detaljerad beskrivning av stegen som krävs i produktdokumentationen:
 
-2) Paket för mobilappskanal har installerats
+   [Integrera Campaign SDK i den mobila applikationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html)
 
-   Du måste ha mobilappskanalpaketet installerat på din instans. I följande video förklaras hur du kontrollerar om mobilappskanalen är installerad på din instans och, om inte, hur du installerar den.
+   Du kan också använda Experience Platform Mobile SDK. Titta på självstudievideon om du vill veta mer:
+
+   [Konfigurera push-kanalen med Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html)
+
+2) **[!DNL Mobile App channel]paket installerat**
+
+   Paketet [!DNL Mobile App channel] måste installeras på din [!DNL Campaign] instans. I följande video förklaras hur du kontrollerar om [!DNL Mobile App channel] filen är installerad på din instans och om inte, hur du installerar den.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
-## Självstudiekurs
+## Översikt över självstudiekurser
 
-Vi vill skicka ett personligt reklamutskick till prenumeranterna på Neotrip- [!DNL Android] mobilappen. Neotrip-appen är konfigurerad med Campaign SDK och vi har sett till att mobilappskanalen aktiveras i vår Campaign-instans.
+Vi vill skicka ett personligt kampanjmeddelande [!DNL push] till prenumeranterna på [!DNL Neotrip] [!DNL Android] mobilappen. Appen är konfigurerad med [!DNL Neotrip] programmet [!DNL Campaign SDK] och vi har sett till att [!DNL Mobile App channel] är aktiverad i vår [!DNL Campaign] instans.
 
 Följande konfigurationssteg krävs:
 
-### Steg 1: Utöka programmets prenumerationsschema för att anpassa push-meddelanden
+### Steg 1: Utöka programmets prenumerationsschema för att anpassa [!DNL push] meddelanden
 
-Eftersom vi vill anpassa push-meddelandet [utökar vi först appprenumerationsschemat](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) så att vi kan lagra de personaliseringsvärden som vi får från appen när användaren prenumererar på tjänsten.
+Eftersom vi vill anpassa [!DNL push] meddelandet [utökar vi först appprenumerationsschemat](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) så att vi kan lagra de personaliseringsvärden vi får från appen när användaren prenumererar på tjänsten.
 
-### Steg 2: Konfigurera Android-tjänsten och skapa mobilappsprogrammet i Campaign
+### Steg 2: Konfigurera Android-tjänsten och skapa mobilprogrammet i Campaign
 
-Därefter måste vi [konfigurera Android-tjänsten och skapa mobilappsprogrammet i Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). I det här steget ska vi definiera Neotrip-appen som mål för push-meddelandet.
+Därefter måste vi [konfigurera Android-tjänsten och skapa mobilappen i Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). I det här steget ska vi definiera [!DNL Neotrip] programmet som mål för push-meddelandet.
 
 ### Steg 3: Konfigurera och skicka push-meddelanden
 
@@ -58,4 +62,4 @@ Sedan är vi redo att [konfigurera och skicka push-meddelandet](/help/tutorial-g
 
 ## Starta självstudiekursen
 
-**[Steg 1: Utöka programmets prenumerationsschema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)**
+Steg 1: [Utöka programmets prenumerationsschema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
