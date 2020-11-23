@@ -5,7 +5,7 @@ user-guide-description: Kontrollpanelen låter administratörer i Adobe Campaign
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
