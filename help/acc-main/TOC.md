@@ -6,7 +6,7 @@ user-guide-description: Adobe Campaign Classic låter marknadsförare designa ku
 breadcrumb-title: Självstudiekurser
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 + [Översikt](/help/overview.md)
 + Komma igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Installera och konfigurera klienten i Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
