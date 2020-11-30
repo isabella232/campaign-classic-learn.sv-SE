@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
-tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 94%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 94%
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Skapa en kampanj och ett e-postmeddelande](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Skapa en kampanj och ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 94%
 + Integrera {#integrating}
    + [Så här integrerar du Dynamics 365 med Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
-   + [Kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=sv)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
