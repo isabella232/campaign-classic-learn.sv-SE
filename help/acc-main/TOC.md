@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Skapa en kampanj och ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [Skapa en kampanj och ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=sv)
    + [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
@@ -46,9 +46,9 @@ ht-degree: 90%
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Push-kanal {#push-channel}
-      + [Installera mobilappskanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Komma igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Komma igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
    + Använda leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
