@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -24,7 +24,7 @@ I den här självstudiekursen beskrivs hur du ställer in en återkommande och k
 
 De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller hur kontaktdata hanteras:
 
-* Med den **kontinuerliga leveransen** kan du lägga till nya mottagare i en befintlig leverans och undvika att behöva skapa en ny leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och den uppdaterar mallen i leveransmallens resursmapp.
+* Med **kontinuerlig leverans** kan du lägga till nya mottagare till en befintlig leverans och undvika att du måste skapa en ny leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och den uppdaterar mallen i leveransmallens resursmapp.
 
    En kontinuerlig leverans skapar en enda leverans- och leveranslogg (broadLog) och spårningsloggar som refererar till att en leverans läggs till varje gång den körs.
 
@@ -34,13 +34,13 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 ![Återkommande leverans](/help/assets/delivery_recurring.jpg)
 
-## Så här ställer du in en återkommande leverans {#how-to-set-up-a-recurring-delivery}
+## Så ställer man in en återkommande leverans {#how-to-set-up-a-recurring-delivery}
 
 I den här videon förklaras hur du konfigurerar en återkommande leverans och en schemaläggningsaktivitet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Konfigurera kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
+## Så ställer man in en kontinuerlig leverans {#how-to-set-up-a-continuous-delivery}
 
 I den här videon visas hur du konfigurerar en kontinuerlig leverans med en stegvis fråga.
 
