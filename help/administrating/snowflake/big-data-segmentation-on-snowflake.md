@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Big data management på Snowflake
 
-I den här självstudiekursen beskrivs hur du utnyttjar [!DNL Snowflake] kopplingen i Adobe Campaign Classic.
+I den här självstudiekursen beskrivs hur du använder [!DNL Snowflake]-anslutningen i Adobe Campaign Classic.
 Du kommer att lära dig hur
 
 * Anslut till Snowflake
