@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # E-postleveransaktivitet kontra leveransaktivitet
 
-Med en [!UICONTROL Delivery-type activity] kan du skapa en leveransåtgärd. Den kan konstrueras med indataelement.
+Med [!UICONTROL Delivery-type activity] kan du skapa en leveransåtgärd. Den kan konstrueras med indataelement.
 
 I den här videon förklaras hur du distribuerar en e-postleveransmall. Det förklarar skillnaden mellan e-postleverans och leveransarbetsflöde.
 
