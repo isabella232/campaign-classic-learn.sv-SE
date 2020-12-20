@@ -1,5 +1,5 @@
 ---
-title: Målinriktade profiler i ett arbetsflöde
+title: Målinrikta profiler i ett arbetsflöde
 description: Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och målprofiler i ett arbetsflöde med filtervillkor.
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 7%
+ht-degree: 38%
 
 ---
 
 
-# Målinriktade profiler i ett arbetsflöde
+# Målinrikta profiler i ett arbetsflöde
 
 Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och målprofiler i ett arbetsflöde med filtervillkor.
 
@@ -26,8 +26,8 @@ Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett ar
 ## Nästa Tutorials att titta på
 
 * [Förfina mål genom att kombinera frågeresultat](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Förfina mål genom att utesluta frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Skapa en lista med ett arbetsflöde med aktiviteten Uppdatera lista](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Ytterligare resurser
 
