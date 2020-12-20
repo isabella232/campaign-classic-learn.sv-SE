@@ -17,9 +17,9 @@ ht-degree: 1%
 ---
 
 
-# Konfigurera en [!DNL Android] tjänst och skapa ett [!DNL Android] mobilprogram i Campaign
+# Konfigurera en [!DNL Android]-tjänst och skapa ett [!DNL Android]-mobilprogram i Campaign
 
-Lär dig hur du konfigurerar en [!DNL Android] tjänst och skapar ett [!DNL Android] mobilprogram i Campaign. Det här steget krävs så att du kan definiera målmobilprogrammet för push-meddelandet.
+Lär dig hur du konfigurerar en [!DNL Android]-tjänst och skapar ett [!DNL Android]-mobilprogram i Campaign. Det här steget krävs så att du kan definiera målmobilprogrammet för push-meddelandet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
