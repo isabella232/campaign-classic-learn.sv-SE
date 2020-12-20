@@ -19,8 +19,8 @@ ht-degree: 11%
 
 # Lägga till URL-behörigheter
 
-Lär dig hur du upprättar en anslutning från din [!UICONTROL Adobe Campaign Classic] instans till en extern URL.
+Lär dig hur du upprättar en anslutning från din [!UICONTROL Adobe Campaign Classic]-instans till en extern URL.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
+Mer information finns i [URL-behörigheter](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
