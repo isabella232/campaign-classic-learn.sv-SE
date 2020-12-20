@@ -22,7 +22,7 @@ Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att m
 
 Typologiregler gör det möjligt för marknadsförare att standardisera affärspraxis för alla leveranser mer effektivt för att styra kampanjmeddelanden till kunder. De gör detta genom att eliminera behovet av att tillämpa undantag eller vanliga regler för varje enskild kampanj. Mottagare som matchar kriterier inom en *typologiregel* exkluderas från leveransen under analysfasen.
 
-Vanligtvis grupperas en uppsättning *typologiregler* i en *typologi* för att enkelt kunna tillämpa flera filtreringsregler på en leverans samtidigt.
+Vanligtvis grupperas en uppsättning *typologiregler* inom en *typologi* för att enkelt tillämpa flera filtreringsregler på en leverans samtidigt.
 
 Detta eliminerar extra steg när ni skapar olika kampanjer och arbetsflöden, samtidigt som ni ser till att ni målgruppsanpassar rätt målgrupp vid rätt tidpunkt.
 
