@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 33%
+ht-degree: 50%
 
 ---
 
 
-# Skapa en lista med mottagare med ett arbetsflöde
+# Skapa en lista med mottagare med hjälp av ett arbetsflöde
 
 Lär dig hur du skapar ett arbetsflöde för att rikta in dig på mottagare och hur du gör det återkommande innan du använder listan i ett e-postmål.
 
