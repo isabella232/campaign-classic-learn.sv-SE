@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Konfigurera och skicka push-meddelanden
 
-Lär dig hur du konfigurerar och skickar ett [!DNL push] meddelande till användare av ett [!DNL Android] program.
+Lär dig hur du konfigurerar och skickar ett [!DNL push]-meddelande till användare av [!DNL Android]-program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
