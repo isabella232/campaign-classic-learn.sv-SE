@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 36%
 
 ---
 
 
 # Förfina mål genom att kombinera frågeresultat
 
-Lär dig hur du förfinar ditt mål genom att kombinera frågeresultat i ett arbetsflöde med hjälp av **[!UICONTROL intersection]** - eller **[!UICONTROL union]** aktiviteterna.
+Lär dig hur du förfinar ditt mål genom att kombinera frågeresultat i ett arbetsflöde med aktiviteterna **[!UICONTROL intersection]** eller **[!UICONTROL union]**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -33,6 +33,6 @@ Dokumentation:
 
 Självstudiekurser:
 
-* [Målinriktade profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Förfina mål genom att utesluta frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Skapa en lista med ett arbetsflöde med aktiviteten Uppdatera lista](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
