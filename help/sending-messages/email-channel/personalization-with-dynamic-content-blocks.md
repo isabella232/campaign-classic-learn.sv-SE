@@ -1,5 +1,5 @@
 ---
-title: Anpassa e-postmeddelanden med dynamiska innehållsblock
+title: Personalisera e-postmeddelanden med dynamiska innehållsblock
 description: Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att anpassa innehållet i e-postleveransen.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 48%
+ht-degree: 67%
 
 ---
 
 
-# Anpassa e-postmeddelanden med dynamiska innehållsblock
+# Personalisera e-postmeddelanden med dynamiska innehållsblock
 
 I Adobe Campaign kan du personalisera innehåll eller utseendet på meddelanden och kombinera dem med kriterier från mottagarprofiler.
 
@@ -36,5 +36,5 @@ Dokumentation:
 
 Video Tutorials:
 
-* [Anpassa e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalisera e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
