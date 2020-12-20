@@ -1,5 +1,5 @@
 ---
-title: Hantera startvärden och korrektur i ett e-postmeddelande
+title: Så hanterar man frön och korrektur i ett e-postmeddelande
 description: Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
 feature: Email
 topics: null
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 9%
+ht-degree: 32%
 
 ---
 
 
-# Hantera startvärden och korrektur i ett e-postmeddelande
+# Så hanterar man frön och korrektur i ett e-postmeddelande
 
 Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
 
