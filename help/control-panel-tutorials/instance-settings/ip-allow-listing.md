@@ -1,6 +1,6 @@
 ---
-title: Lägga till IP-adresser till tillåtelselista
-seo-title: Lägga till IP-adresser till tillåtelselista
+title: Lägga till IP-adresser på tillåtelselistor
+seo-title: Lägga till IP-adresser på tillåtelselistor
 description: Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 seo-description: I videon nedan förklaras hur du konfigurerar nya anslutningar till instanser genom att tillåtslista IP-adressintervall.
 feature: instance settings
@@ -14,12 +14,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
 
-# Lägga till IP-adresser till tillåtelselista
+# Lägga till IP-adresser på tillåtelselistor
 
 Med kontrollpanelen kan du konfigurera nya anslutningar till instanser genom att tillåtslista IP-adressintervall. Som standard är en instans i Adobe Campaign Classic endast tillgänglig från specifika IP-adresser. En IP-adress måste därför tillåtslistas:
 
