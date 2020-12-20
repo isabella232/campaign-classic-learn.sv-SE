@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 25%
+ht-degree: 37%
 
 ---
 
@@ -34,5 +34,5 @@ Dokumentation:
 
 Självstudiekurser:
 
-* [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
