@@ -24,9 +24,9 @@ Arbetsflöden sker i olika sammanhang och under olika faser av kampanjhanterings
 
 Adobe Campaign använder arbetsflöden för att
 
-* Utför riktade kampanjer. For more on this, refer to [Implementation steps](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* Skapa kampanjer: för varje kampanj kan du på fliken **Arbetsflöde** skapa målet och leveranserna. For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* Adobe Campaign tekniska processer: rensning, insamling av spårningsinformation eller preliminära beräkningar. For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
+* Utför riktade kampanjer. Mer information finns i [Implementeringssteg](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
+* Skapa kampanjer: för varje kampanj kan du på fliken **Arbetsflöde** skapa målet och leveranserna. Mer information finns i [Kampanjarbetsflöden](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
+* Adobe Campaign tekniska processer: rensning, insamling av spårningsinformation eller preliminära beräkningar. Mer information finns i [Tekniska arbetsflöden](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
 I den här videon förklaras hur du skapar ett arbetsflöde i Adobe Campaign Classic.
 
