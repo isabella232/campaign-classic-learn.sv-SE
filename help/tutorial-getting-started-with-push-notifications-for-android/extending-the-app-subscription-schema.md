@@ -17,9 +17,9 @@ ht-degree: 2%
 ---
 
 
-# Utöka [!UICONTROL app subscription] schemat för att anpassa push-meddelanden
+# Utöka schemat [!UICONTROL app subscription] för att anpassa push-meddelanden
 
-Lär dig hur du utökar [!UICONTROL app subscription] schemat så att det kan lagra personaliseringsvärden som [!DNL Campaign] tas emot från en mobilapp.
+Lär dig hur du utökar schemat [!UICONTROL app subscription] så att det går att lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
