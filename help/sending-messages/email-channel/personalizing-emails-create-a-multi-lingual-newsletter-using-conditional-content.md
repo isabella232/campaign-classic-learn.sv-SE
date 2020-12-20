@@ -1,5 +1,5 @@
 ---
-title: Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll
+title: Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll
 description: Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel på ett flerspråkigt nyhetsbrev.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorat innehåll
+# Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll
 
 Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad personalisering. Fullständiga textblock och/eller bilder ersätts när ett visst villkor uppfylls.
 
@@ -34,5 +34,5 @@ Dokumentation:
 
 Video Tutorials:
 
-* [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Anpassa e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personalisera e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
