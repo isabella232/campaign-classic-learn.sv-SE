@@ -20,7 +20,7 @@ ht-degree: 31%
 
 # Generera en beskrivande analysrapport
 
-Lär dig hur du genererar ett [!UICONTROL descriptive analysis report] från ett arbetsflöde.
+Lär dig hur du skapar en [!UICONTROL descriptive analysis report] från ett arbetsflöde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
