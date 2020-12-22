@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 98%
+source-wordcount: '352'
+ht-degree: 97%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 98%
       + [Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+      + [Felsöka e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
    + Push-kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
