@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
       + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [Hantera databas och korrektur i ett e-postmeddelande](/help/sending-messages/managing-seed-and-proofs.md)
+      + [Hantera databas och korrektur i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Konfigurera dynamiskt innehåll](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalisera e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Använda fördefinierade filter](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [Konfigurera och hantera prenumerationstjänster](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orkestrera kampanjer {#orchestration}
    + [Köra en kampanj](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Skapa kampanjer över flera kanaler](/help/orchestrating-campaigns/multi-channel-campaigns.md)
