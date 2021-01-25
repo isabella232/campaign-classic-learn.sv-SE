@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -30,7 +30,8 @@ ht-degree: 95%
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Skapa en kampanj och ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=sv)
-   + [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Målprofiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Skapa händelseutlösta kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Importera profiler](/help/data-management/importing-profiles.md)
