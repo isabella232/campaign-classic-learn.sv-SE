@@ -3,11 +3,11 @@ title: Självstudiekurser om Adobe Campaign Classic – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och personaliserar e-postinnehåll.*
+
 * **[Komma igång med push-meddelanden för Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign till en Android-app.*
 
-
 * **[Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
-
-* **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Läs om hur du övervakar databasanvändningen på dina instanser.*
 
 ## Personalens val
 
