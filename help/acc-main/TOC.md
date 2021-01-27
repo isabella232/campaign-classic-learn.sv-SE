@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Skapa en kampanj och ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=sv)
+   + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Målprofiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Skapa händelseutlösta kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
 + Profilhantering {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [Skapa en lista med mottagare med hjälp av ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
-      + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Hantera databas och korrektur i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Konfigurera dynamiskt innehåll](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Komma igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
+   + Direktmeddelande {#direct-mail}
+      + [Skapa leveranser med direktutskick](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Använda leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuera en ad-hoc-leveransmall för e-post](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Direktmeddelande {#direct-mail}
-      + [Skapa leveranser med direktutskick](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Använda fördefinierade filter](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
