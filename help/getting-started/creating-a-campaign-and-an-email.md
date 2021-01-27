@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 48%
+source-wordcount: '50'
+ht-degree: 16%
 
 ---
 
@@ -25,5 +25,4 @@ Lär dig hur du skapar e-postleveranser direkt från en kampanj.
 
 ## Ytterligare resurser
 
-* [Användningsfall: skapa en e-postleverans](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
-* [Bygga ett arbetsflöde (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
+* [Användningsfall: skapa en e-postleverans](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
