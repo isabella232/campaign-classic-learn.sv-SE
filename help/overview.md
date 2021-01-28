@@ -4,10 +4,10 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* ** [Designa e-postmeddelanden för slutleverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*Lär dig hur du skickar och validerar ett bevis.*
+
+* **[Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Lär dig hur ni använder bästa praxis för slutprodukter.*
 
@@ -29,10 +33,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Komma igång med push-meddelanden för Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign till en Android-app.*
-
-* **[Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
 
 ## Personalens val
 
