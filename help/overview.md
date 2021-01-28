@@ -4,7 +4,7 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
+source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -18,7 +18,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs)**
+* **[Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
 *Lär dig hur du skickar och validerar ett bevis.*
 
