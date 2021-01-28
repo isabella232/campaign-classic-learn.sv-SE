@@ -4,10 +4,10 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Classic.
 
 ## Nyheter
+
+* **+  [Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *Lär dig hur ni använder bästa praxis för slutprodukter.*
 
 * **[Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
