@@ -4,7 +4,7 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 87%
@@ -18,7 +18,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **+  [Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [Designa e-postmeddelanden för slutleverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Lär dig hur ni använder bästa praxis för slutprodukter.*
 
