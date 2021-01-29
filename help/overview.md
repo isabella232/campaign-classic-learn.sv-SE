@@ -4,10 +4,10 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Classic.
 
 ## Nyheter
+
+* **[Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *Förstå begreppet kontrollgrupper och lär dig hur du använder en kontrollgrupp för leveransen.*
 
 * **[Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
    *Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och personaliserar e-postinnehåll.*
 
-* **[Komma igång med push-meddelanden för Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign till en Android-app.*
 
 ## Personalens val
 
