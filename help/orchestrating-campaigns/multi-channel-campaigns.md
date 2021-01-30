@@ -1,5 +1,5 @@
 ---
-title: Skapa flerkanalskampanjer i Adobe Campaign Classic (ACC)
+title: Skapa flerkanalskampanjer
 description: Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam.
 feature: Workflows
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 5%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
-# Skapa kampanjer över flera kanaler
+# Skapa flerkanalskampanjer
 
 I en flerkanalskampanj använder en enda marknadsföringskommunikation flera kanaler för att nå en större målgrupp baserat på den önskade mottagarkanalen.
 
