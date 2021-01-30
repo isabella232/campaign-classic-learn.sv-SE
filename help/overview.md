@@ -4,10 +4,10 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 72%
+source-wordcount: '251'
+ht-degree: 69%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 72%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Classic.
 
 ## Nyheter
+
+* **[Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+
+   *Lär dig hur du skapar och genomför en flerkanalskampanj.*
 
 * **[Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)**
 
