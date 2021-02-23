@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 537c202807c5a1c1b1918588d6f3396da9d48a51
+source-git-commit: be6a627d858eabdeb7e64d2dd9fa969adcb49a27
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 82%
+source-wordcount: '394'
+ht-degree: 80%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 82%
 # Självstudiekurser om Adobe Campaign Classic {#tutorials}
 
 + [Översikt](/help/overview.md)
++ [Förbered dig för att komma igång med Adobe Campaign - Bästa praxis för att leverera](/https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Komma igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installera och konfigurera klienten i Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
