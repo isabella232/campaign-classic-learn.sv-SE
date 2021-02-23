@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: e9b8c3ff48367d78d264a98d6032f8b557b4cc60
+source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 79%
+source-wordcount: '394'
+ht-degree: 80%
 
 ---
 
@@ -23,7 +23,6 @@ ht-degree: 79%
 # Självstudiekurser om Adobe Campaign Classic {#tutorials}
 
 + [Översikt](/help/overview.md)
-+ [Förbered dig för att komma igång med Adobe Campaign - Bästa praxis för att leverera](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Komma igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installera och konfigurera klienten i Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -52,6 +51,7 @@ ht-degree: 79%
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Felsöka e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Bästa praxis för leverans](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-kanal {#push-channel}
