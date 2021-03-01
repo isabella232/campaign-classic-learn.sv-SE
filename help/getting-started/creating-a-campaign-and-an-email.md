@@ -1,7 +1,7 @@
 ---
 title: Skapa ett e-postmeddelande från en kampanj
 description: Lär dig hur du skapar e-postleveranser direkt från en kampanj.
-feature: Email
+feature: E-post
 topics: null
 kt: 2172
 thumbnail: 25604.jpg
@@ -11,8 +11,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 16%
+source-wordcount: '51'
+ht-degree: 17%
 
 ---
 
