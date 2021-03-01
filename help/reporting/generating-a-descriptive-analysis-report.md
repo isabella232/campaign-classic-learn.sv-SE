@@ -1,19 +1,19 @@
 ---
 title: Generera en beskrivande analysrapport
 description: Lär dig hur du skapar en beskrivande analysrapport från ett arbetsflöde i Adobe Campaign Classic.
-feature: Reporting
+feature: Rapportering
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: användare
 translation-type: tm+mt
 source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 31%
+source-wordcount: '65'
+ht-degree: 32%
 
 ---
 
