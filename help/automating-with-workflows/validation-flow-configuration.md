@@ -1,20 +1,22 @@
 ---
 title: Konfigurera valideringsarbetsflöden i Adobe Campaign Classic
 seo-title: Konfigurera valideringsarbetsflöden i Adobe Campaign Classic
-description: Adobe Campaign erbjuder flera sätt för marknadsförare att granska och tillhandahålla leveransinnehåll, kampanjmål, dataextrahering och budgetgodkännanden. I den här självstudiekursen beskrivs hur du konfigurerar olika arbetsflöden för godkännandevalidering.
+description: Lär dig konfigurera olika arbetsflöden för godkännandevalidering.
 seo-description: Den här videon förklarar hur du konfigurerar och använder en leveransmall i ACCAdobe Campaign innehåller flera alternativ för marknadsförare som kan granska och tillhandahålla leveransinnehåll, kampanjmål, dataextrahering och budgetgodkännanden. I den här självstudiekursen beskrivs hur du konfigurerar olika arbetsflöden för godkännandevalidering.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflow
+feature: Arbetsflöden, godkännanden
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
+role: Yrkesverksamma inom affärsverksamhet
+level: Avancerat
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
