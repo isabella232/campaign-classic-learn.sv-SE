@@ -1,17 +1,19 @@
 ---
 title: Utöka programmets prenumerationsschema för att anpassa push-meddelanden
 description: Lär dig hur du utökar appens prenumerationsschema för att kunna lagra personaliseringsvärden som Campaign tar emot från en mobilapp.
-feature: push, data management
+feature: Push, Schema Extension
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administratör, utvecklare
+level: Erfaren
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
