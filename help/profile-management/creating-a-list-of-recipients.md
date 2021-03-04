@@ -1,18 +1,20 @@
 ---
 title: Skapa en lista med mottagare
 description: Lär dig hur du skapar en målgrupp genom att konfigurera en lista med mottagare från Utforskaren.
-feature: Audiences
+feature: Publiker
 topics: Getting started
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 71%
+source-wordcount: '110'
+ht-degree: 70%
 
 ---
 
