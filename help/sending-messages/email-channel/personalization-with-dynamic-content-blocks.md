@@ -1,18 +1,20 @@
 ---
 title: Personalisera e-postmeddelanden med dynamiska innehållsblock
 description: Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att anpassa innehållet i e-postleveransen.
-feature: Dynamic Content Blocks
+feature: Dynamiska innehållsblock
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
+role: Administratör, utvecklare
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 67%
+source-wordcount: '153'
+ht-degree: 64%
 
 ---
 
