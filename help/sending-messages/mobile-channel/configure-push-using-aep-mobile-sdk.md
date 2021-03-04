@@ -1,16 +1,18 @@
 ---
 title: 'Konfigurera push-kanalen med Experience Platform Mobile SDK '
-description: 'I den här videon förklaras hur du konfigurerar Push-kanalen för Campaign Classic med Experience Cloud Mobile SDK. '
-feature: Mobile SDK
+description: 'Lär dig hur du konfigurerar Push-kanalen med Experience Cloud Mobile SDK. '
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: Administratör
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 24%
 
 ---
