@@ -1,6 +1,6 @@
 ---
 title: Skapa och hantera profiler
-description: Förstå begreppet profiler i Adobe Campaign Classic. Lär dig hur du får åtkomst till profildata, sorterar och filtrerar profiler och skapar och hanterar profiler manuellt. I den här videon förklaras också Adobe Campaign Classic överensstämmelse med den allmänna dataskyddsförordningen (GDPR) och California Consumer Privacy Act (CCPA).
+description: Lär dig hur du får åtkomst till profildata, sorterar och filtrerar profiler och skapar och hanterar profiler manuellt. Förstå efterlevnaden av den allmänna dataskyddsförordningen (GDPR) och Kaliforniens konsumentintegritetslag (CCPA).
 landing-page-description: Förstå begreppet profiler. Lär dig hur du får åtkomst till profildata, sorterar och filtrerar profiler och skapar och hanterar profiler manuellt. Läs mer om GDPR och CCPA.
 feature: Profiler
 topics: null
@@ -9,12 +9,13 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: användare
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 84471810b84c7ec49ff5a827036f5bc548b88a6f
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 17%
+source-wordcount: '155'
+ht-degree: 18%
 
 ---
 
