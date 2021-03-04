@@ -1,19 +1,20 @@
 ---
 title: Så här skapar du en marknadsföringsplan, program och kampanjer
 description: Förstå de viktigaste begreppen i Adobe Campaign som hjälper dig att effektivt planera, genomföra och mäta kampanjer över flera kanaler.
-feature: marketing plan
+feature: Kampanjer
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: user
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 76%
+source-wordcount: '71'
+ht-degree: 73%
 
 ---
 
