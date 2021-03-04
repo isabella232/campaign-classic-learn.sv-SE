@@ -1,19 +1,21 @@
 ---
 title: Fullständig delegering av underdomäner
 description: Läs mer om hur du delegerar en underdomän fullständigt till Adobe Campaign.
-feature: Subdomain Delegation
+feature: 'Kontrollpanelen  '
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administratör
+level: Erfaren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 85%
+source-wordcount: '116'
+ht-degree: 84%
 
 ---
 
