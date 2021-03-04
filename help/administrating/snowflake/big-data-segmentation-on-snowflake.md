@@ -1,16 +1,18 @@
 ---
 title: Big data management på Snowflake
-description: I den här självstudiekursen beskrivs hur du kan utnyttja Snowflake-anslutningen i Adobe Campaign Classic
-feature: Snowflake
+description: Lär dig hur du utnyttjar Snowflake-kopplingen i Adobe Campaign Classic
+feature: Åtkomst till federerade data
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
+role: Administratör, utvecklare
+level: Avancerat
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 6%
 
 ---
