@@ -1,18 +1,20 @@
 ---
 title: Skapa och utforma e-postleveranser
 description: Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och personaliserar e-postinnehåll.
-feature: Email, Email Design, Personalization
+feature: E-post, e-postdesign, personalisering
 topics: null
 kt: 6824
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: e83e6225cd7312c95dabe44f994f797a7b165226
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 12%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 
