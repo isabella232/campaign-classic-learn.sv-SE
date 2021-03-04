@@ -1,17 +1,19 @@
 ---
 title: Ställa in trötthetshantering med typologiregler i Adobe Campaign Classic
-description: Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att mottagare efterfrågas och används ofta med en typologiregel. I den här videon förklaras hur du implementerar trötthetshantering i Adobe Campaign Classic genom att utnyttja typologiregler.
-feature: Fatigue Management
+description: Lär dig hur du implementerar trötthetshantering genom att utnyttja typologiregler.
+feature: Trötthetshantering
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 2%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
