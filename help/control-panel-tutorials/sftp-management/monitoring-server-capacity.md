@@ -1,7 +1,7 @@
 ---
 title: Övervaka serverkapacitet
-description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och lägga till IP-adresser i tillåtelselistor.
-feature: SFTP Management
+description: Lär dig hur du övervakar och hanterar SFTP-lagringen per instans och lägger till IP-adresser i tillåtelselista.
+feature: 'Kontrollpanelen  '
 topics: Control Panel
 audience: administrator
 kt: 3266
@@ -9,12 +9,14 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administratör
+level: Erfaren
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 73%
+source-wordcount: '94'
+ht-degree: 52%
 
 ---
 
