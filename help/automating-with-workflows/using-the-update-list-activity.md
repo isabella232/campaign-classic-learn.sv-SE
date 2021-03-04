@@ -1,18 +1,20 @@
 ---
 title: Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde
 description: Lär dig hur du förfinar ditt mål genom att tillämpa ett standardundantag i ett arbetsflöde. Du får också lära dig hur du skapar fördefinierade filter och hur du inte kan använda arbetsflödet.
-feature: Workflows
+feature: arbetsflöden, målaktivitet, frågeredigeraren
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 36%
+source-wordcount: '131'
+ht-degree: 34%
 
 ---
 
