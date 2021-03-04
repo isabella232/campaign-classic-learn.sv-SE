@@ -1,18 +1,20 @@
 ---
 title: Anpassa e-postmeddelanden med personaliseringsfält
 description: Lär dig hur du lägger till ett anpassningsfält på ämnesraden och innehållet i en e-postleverans.
-feature: Dynamic Content Blocks
+feature: Dynamiska innehållsblock
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 37%
+source-wordcount: '130'
+ht-degree: 36%
 
 ---
 
