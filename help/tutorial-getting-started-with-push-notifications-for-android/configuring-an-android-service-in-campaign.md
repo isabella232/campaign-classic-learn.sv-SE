@@ -1,17 +1,19 @@
 ---
 title: Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign
 description: Lär dig hur du konfigurerar en Android-tjänst och skapar ett Android-mobilprogram i Campaign. Det krävs för att vi ska kunna definiera Neotrip-appen som mål för push-meddelandet.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administratör, utvecklare
+level: Erfaren
 translation-type: tm+mt
-source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
