@@ -1,14 +1,16 @@
 ---
 title: Skapa ett arbetsflöde
-description: I den här videon förklaras hur du skapar ett arbetsflöde i Adobe Campaign Classic.
-feature: Workflow
+description: I den här videon förklaras hur du skapar ett arbetsflöde.
+feature: Arbetsflöden
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 28%
