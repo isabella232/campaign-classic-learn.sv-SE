@@ -1,16 +1,18 @@
 ---
 title: Datasegmentering i Adobe Campaign Classic
-description: 'Med Adobe Campaign kan ni göra avancerad segmentering med hjälp av djupgående frågor om de vanligaste konsumentattributen och andra datakällor, så att ni kan skapa återanvändbara listor, dynamiskt uppdatera listor baserat på ändringar i realtid av data och till och med utföra mer komplexa aktiviteter som multivariata tester på någon av dessa datapunkter. I den här självstudiekursen förklaras den integrerade kundprofilen, hur du skapar och uppdaterar profilerna och hur du skapar kundsegment baserat på dessa profiler. '
-feature: Data segmentation
+description: 'Förstå den integrerade kundprofilen, hur du skapar och uppdaterar profilerna och hur du skapar kundsegment baserat på dessa profiler. '
+feature: profiler, datahanteringsaktivitet
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '310'
 ht-degree: 1%
 
 ---
