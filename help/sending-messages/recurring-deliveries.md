@@ -1,17 +1,19 @@
 ---
 title: Konfigurera återkommande och kontinuerliga e-postkampanjer
-description: I den här självstudiekursen beskrivs hur du ställer in en återkommande och kontinuerlig leverans och skillnaderna mellan de två metoderna i Adobe Campaign Classic (ACC).
-feature: workflows
+description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstår skillnaderna mellan de två metoderna.
+feature: Arbetsflöden
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 5%
+source-wordcount: '270'
+ht-degree: 6%
 
 ---
 
