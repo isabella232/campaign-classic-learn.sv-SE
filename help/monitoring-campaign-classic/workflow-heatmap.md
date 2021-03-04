@@ -1,17 +1,19 @@
 ---
 title: Färgdiagram över arbetsflöde
-description: Färgdiagrammet över arbetsflöden i Adobe Campaign består av en färgkodad grafisk representation av alla arbetsflöden som för närvarande körs.  Tack vare en snabb översikt över antalet samtidiga arbetsflöden kan plattformsadministratörer i Adobe Campaign övervaka belastningen på instansen och planera arbetsflödena utifrån detta.
-feature: Workflow Heatmap
+description: Lär dig hur du övervakar inläsningen av instansen och planerar arbetsflödena utifrån detta.
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: Administratör
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
