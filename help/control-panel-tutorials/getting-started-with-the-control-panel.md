@@ -12,10 +12,10 @@ topic: null
 role: Administratör
 level: Erfaren
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: df1ae08c0664812c266512283c7298b3f293e91d
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 66%
+source-wordcount: '275'
+ht-degree: 36%
 
 ---
 
@@ -24,7 +24,8 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
+>Kontrollpanelen är tillgänglig för alla administratörsanvändare. Stegen för att bevilja administratörsåtkomst för en användare finns i (produktdokumentation)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel].
+Observera att din instans måste vara värd för AWS och uppgraderas med den senaste versionen (Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html]. Lär dig hur du kontrollerar versionen i (det här avsnittet)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]. Följ stegen som beskrivs i (den här sidan)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html] för att kontrollera om din instans finns på AWS.
 
 Med [!UICONTROL Control Panel] kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa åtgärder, som att hantera [!DNL SFTP]-lagring efter instans, hantera [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
