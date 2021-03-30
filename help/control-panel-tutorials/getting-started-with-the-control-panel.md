@@ -10,7 +10,7 @@ team: TM
 role: Administratör
 level: Erfaren
 translation-type: tm+mt
-source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
+source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 36%
@@ -23,7 +23,8 @@ ht-degree: 36%
 >[!NOTE]
 >
 > Kontrollpanelen är tillgänglig för alla administratörsanvändare. Anvisningar om hur du beviljar administratörsåtkomst till en användare finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
-Observera att din instans måste ligga på AWS och uppgraderas med den senaste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)-versionen. Lär dig hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Om du vill kontrollera om din instans finns på AWS följer du stegen som beskrivs i [den här sidan](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>
+> Observera att din instans måste ligga på AWS och uppgraderas med den senaste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)-versionen. Lär dig hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Om du vill kontrollera om din instans finns på AWS följer du stegen som beskrivs i [den här sidan](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 Med [!UICONTROL Control Panel] kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa åtgärder, som att hantera [!DNL SFTP]-lagring efter instans, hantera [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
