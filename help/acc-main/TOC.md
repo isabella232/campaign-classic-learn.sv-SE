@@ -11,11 +11,11 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 80%
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Skapa en kampanj och ett e-postmeddelande](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Målprofiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Skapa händelseutlösta kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Skapa händelseaktiverade kampanjer](/help/getting-started/create-event-triggered-campaigns.md)
 + Profilhantering {#profile-management}
    + [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
    + [Importera profiler](/help/data-management/importing-profiles.md)
@@ -39,9 +39,9 @@ ht-degree: 80%
    + [Skapa en lista med mottagare med hjälp av ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
-      + [Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Hantera databas och korrektur i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [Skapa och designa e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Hantera startvärde och bevis i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)
       + [Konfigurera dynamiskt innehåll](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -50,8 +50,8 @@ ht-degree: 80%
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Felsöka e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Bästa praxis för leverans](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [Designa e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-kanal {#push-channel}
@@ -69,10 +69,10 @@ ht-degree: 80%
       + [Använda fördefinierade filter](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Konfigurera och hantera prenumerationstjänster](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orkestrera kampanjer {#orchestration}
-   + [Köra en kampanj](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Introduktion till flerkanals- och flerkanalskampanjer](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Genomföra en kampanj](/help/orchestrating-campaigns/executing-a-campaign.md)
+   + [Introduktion till flerkanals- och tvärkanalskampanjer](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Skapa flerkanalskampanjer](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+   + [Skapa tvärkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Rapportering {#reporting}
    + [Åtkomst till inbyggda rapporter](/help/reporting/accessing-built-in-reports.md)
    + [Generera en beskrivande analysrapport](/help/reporting/generating-a-descriptive-analysis-report.md)
