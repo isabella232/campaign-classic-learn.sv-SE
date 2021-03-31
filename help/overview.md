@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: Översikt
 topic: null
-role: Affärsledare, administratör, utvecklare
+role: Yrkesverksam, administratör, utvecklare
 level: Nybörjare
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -24,23 +24,23 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Lär dig hur du skapar och genomför en flerkanalskampanj.*
+   *Läs om hur du skapar och genomför en flerkanalskampanj.*
 
 * **[Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Förstå begreppet kontrollgrupper och lär dig hur du använder en kontrollgrupp för leveransen.*
+   *Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.*
 
-* **[Skicka och validera korrektur](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *Lär dig hur du skickar och validerar ett bevis.*
+   *Läs om hur du skickar och validerar ett bevis.*
 
-* **[Designa e-postmeddelanden för leverans](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Designa e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Lär dig hur ni använder bästa praxis för slutprodukter.*
+   *Läs om hur du använder god praxis för levererbarhet.*
 
-* **[Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Skapa och designa e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Förstå processen med att skapa e-postleveranser och lär dig hur du utformar och personaliserar e-postinnehåll.*
+   *Förstå processen med att skapa e-postleveranser och läs om hur du designar och anpassar e-postinnehåll.*
 
 
 ## Personalens val
