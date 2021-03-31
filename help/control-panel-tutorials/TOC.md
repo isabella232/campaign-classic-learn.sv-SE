@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
-user-guide-title: Självstudiekurser om kontrollpanelen i Adobe Campaign
-user-guide-description: Lär dig hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
+user-guide-title: Självstudiekurser om Kontrollpanelen i Adobe Campaign
+user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -14,11 +14,11 @@ index: true
 feature: 'Kontrollpanelen  '
 role: Administratör
 level: Erfaren
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
