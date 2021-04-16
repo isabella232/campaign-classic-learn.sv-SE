@@ -1,16 +1,15 @@
 ---
 title: Självstudiekurser om Adobe Campaign Classic – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
-product: Campaign
 sub-product: Campaign Classic
 feature: Översikt
 topic: null
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 100%
 
