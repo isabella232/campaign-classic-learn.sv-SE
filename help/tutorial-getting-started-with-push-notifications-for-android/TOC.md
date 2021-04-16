@@ -1,16 +1,13 @@
 ---
-product: adobe campaign classic
 user-guide-title: Komma igång med push-meddelanden för Android i Campaign Classic
 user-guide-description: I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign till en Android-app.
 breadcrumb-title: Komma igång med push-meddelanden för Android
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Classic#recommended/solutions/campaign
 index: true
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '91'
+translation-type: tm+mt
+source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
