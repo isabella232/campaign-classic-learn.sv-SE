@@ -1,15 +1,15 @@
 ---
 title: Konfigurera landningssidor i Adobe Campaign Classic
 description: Lär dig navigera i webbprogramsredigeraren genom att skapa ett inställningscenter.
-feature: Landningssidor
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Utvecklare, administratör
-level: Nybörjare
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

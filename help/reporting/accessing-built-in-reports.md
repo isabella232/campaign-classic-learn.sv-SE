@@ -1,15 +1,15 @@
 ---
 title: Åtkomst till inbyggda rapporter
 description: Förstå inbyggd rapportering och analys och lär dig hur man skapar en leveransrapport.
-feature: Rapportering
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

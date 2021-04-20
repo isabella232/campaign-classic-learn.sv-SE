@@ -1,7 +1,7 @@
 ---
 title: Skapa flerkanalskampanjer
 description: Läs om hur du skapar en kanal-kanalkampanj.
-feature: Arbetsflöden
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

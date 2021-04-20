@@ -1,7 +1,7 @@
 ---
 title: Konfigurera och hantera prenumerationstjänster
 description: Lär dig hur du konfigurerar och hanterar prenumerationer och målprenumeranter.
-feature: 'Prenumerationer     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

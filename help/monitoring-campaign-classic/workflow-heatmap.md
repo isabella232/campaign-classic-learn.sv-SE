@@ -1,7 +1,7 @@
 ---
 title: Färgdiagram över arbetsflöde
 description: Läs om hur du övervakar inläsningen av instansen och planerar arbetsflöden utifrån detta.
-feature: Värmekarta
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

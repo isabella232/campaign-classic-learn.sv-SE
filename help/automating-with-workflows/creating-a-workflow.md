@@ -1,14 +1,14 @@
 ---
 title: Skapa ett arbetsflöde
 description: I den här videon förklaras hur du skapar ett arbetsflöde.
-feature: Arbetsflöden
+feature: Workflows
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Skicka och validera ett bevis
 description: Läs om hur du skickar och validerar ett bevis.
-feature: E-post, bevis
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

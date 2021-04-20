@@ -1,7 +1,7 @@
 ---
 title: Skapa leveranser med direktutskick
 description: Lär dig hur du skapar, formaterar och kör direktreklam.
-feature: Direktreklam
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

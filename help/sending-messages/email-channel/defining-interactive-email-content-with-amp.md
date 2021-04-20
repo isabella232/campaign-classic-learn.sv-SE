@@ -1,7 +1,7 @@
 ---
 title: Definiera interaktivt e-postinnehåll med AMP
 description: Läs om hur du konfigurerar e-postinnehållet i AMP-format.
-feature: E-post, e-postdesign
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

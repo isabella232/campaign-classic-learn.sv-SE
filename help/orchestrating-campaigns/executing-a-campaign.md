@@ -1,15 +1,15 @@
 ---
 title: Köra en kampanj
 description: Lär dig hur du kör en kampanj, granskar en e-postleverans och leveransegenskaperna.
-feature: Kampanjer, e-post
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

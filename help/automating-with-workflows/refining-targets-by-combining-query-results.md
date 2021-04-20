@@ -1,15 +1,15 @@
 ---
 title: Förfina mål genom att kombinera frågeresultat
 description: Lär dig hur du förfinar ditt mål genom att kombinera frågeresultat i ett arbetsflöde med skärnings- eller unionsaktiviteterna.
-feature: arbetsflöden, målaktivitet, frågeredigeraren
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

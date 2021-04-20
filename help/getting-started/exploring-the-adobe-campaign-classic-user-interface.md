@@ -1,15 +1,15 @@
 ---
 title: Utforska användargränssnittet i Adobe Campaign Classic
 description: Förstå Adobe Campaign Classic huvudgränssnitt och visa hur du navigerar i huvudfunktionerna.
-feature: Översikt
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

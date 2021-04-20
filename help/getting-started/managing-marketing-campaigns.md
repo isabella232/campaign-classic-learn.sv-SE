@@ -1,15 +1,15 @@
 ---
 title: Hantera marknadsföringskampanjer
 description: Förstå de viktigaste begreppen i Adobe Campaign som hjälper dig att effektivt planera, genomföra och mäta kampanjer över flera kanaler.
-feature: Kampanjer
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Skapa och utforma e-postleveranser
 description: Förstå processen att skapa en e-postleverans och läs om hur du utformar och personaliserar e-postinnehåll.
-feature: E-post, e-postdesign, personalisering
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

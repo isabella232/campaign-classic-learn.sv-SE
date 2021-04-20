@@ -1,7 +1,7 @@
 ---
 title: Så här använder du granskningsspår
 description: 'Med granskningsspår registreras i realtid en omfattande lista över åtgärder och händelser som inträffar i Adobe Campaign. '
-feature: Granskningsspår
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

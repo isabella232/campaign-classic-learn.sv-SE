@@ -1,7 +1,7 @@
 ---
 title: Big data management på Snowflake
 description: Lär dig hur du utnyttjar Snowflake-kopplingen i Adobe Campaign Classic
-feature: Åtkomst till federerade data
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video

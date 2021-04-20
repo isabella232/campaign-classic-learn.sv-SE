@@ -1,15 +1,15 @@
 ---
 title: Generera en SSH-nyckel
 description: Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administratör
-level: Erfaren
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

@@ -1,15 +1,15 @@
 ---
 title: Så här målar du profiler i ett arbetsflöde
 description: Förstå användningen av kampanjarbetsflöden och lär dig hur du skapar ett arbetsflöde och målprofiler i ett arbetsflöde med filtervillkor.
-feature: Arbetsflöden
+feature: Workflows
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

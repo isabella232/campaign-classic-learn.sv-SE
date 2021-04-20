@@ -1,14 +1,14 @@
 ---
 title: Konfigurera återkommande och kontinuerliga e-postkampanjer
 description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstår skillnaderna mellan de två metoderna.
-feature: Arbetsflöden
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

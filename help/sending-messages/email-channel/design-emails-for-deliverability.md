@@ -1,7 +1,7 @@
 ---
 title: Hur säkerställer jag levererbarheten när jag utformar e-postmeddelanden?
 description: Läs om hur du tillämpar god praxis för levererbarhet.
-feature: E-post, levererbarhet
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

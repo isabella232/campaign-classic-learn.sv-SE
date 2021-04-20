@@ -1,7 +1,7 @@
 ---
 title: Personalisera e-postmeddelanden med dynamiska innehållsblock
 description: Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att anpassa innehållet i e-postleveransen.
-feature: Dynamiskt innehåll
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

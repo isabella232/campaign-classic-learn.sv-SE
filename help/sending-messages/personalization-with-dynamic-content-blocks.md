@@ -1,7 +1,7 @@
 ---
 title: Så här personaliserar du e-postmeddelanden med dynamiska innehållsblock
 description: I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, använda JavaScript-kod i leveransmallar samt standardisera och dela innehållsblock i olika leveransmallar.
-feature: Dynamiskt innehåll
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 doc-type: feature video

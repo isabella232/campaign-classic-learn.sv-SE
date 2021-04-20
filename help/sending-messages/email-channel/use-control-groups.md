@@ -1,7 +1,7 @@
 ---
 title: Använda kontrollgrupper
 description: Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.
-feature: Kontrollgrupper
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

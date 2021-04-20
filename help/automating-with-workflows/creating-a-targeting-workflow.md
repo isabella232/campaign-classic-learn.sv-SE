@@ -1,14 +1,14 @@
 ---
 title: Skapa ett målarbetsflöde
 description: Lär dig hur du definierar flera leveransmål med hjälp av arbetsflöden med målinriktning.
-feature: arbetsflöden, målaktivitet, frågeredigeraren
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

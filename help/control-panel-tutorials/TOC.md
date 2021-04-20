@@ -4,7 +4,7 @@ user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

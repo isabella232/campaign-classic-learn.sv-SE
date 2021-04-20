@@ -1,15 +1,15 @@
 ---
 title: Skapa flerkanalskampanjer
 description: Lär dig hur du skapar en flerkanalskampanj med e-post, SMS och direktreklam.
-feature: Arbetsflöden
+feature: Workflows
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt

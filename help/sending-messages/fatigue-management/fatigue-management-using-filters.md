@@ -1,7 +1,7 @@
 ---
 title: Hantera reklamtrötthet med tryckregler
 description: Lär dig hur du implementerar trötthetshantering i Adobe Campaign Classic med hjälp av filter.
-feature: Trötthetshantering
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

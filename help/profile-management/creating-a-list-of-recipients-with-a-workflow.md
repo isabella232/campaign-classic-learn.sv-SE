@@ -1,15 +1,15 @@
 ---
 title: Skapa en lista med mottagare med ett arbetsflöde
 description: Lär dig hur du skapar en målgrupp genom att konfigurera en lista med mottagare från Utforskaren.
-feature: Publiker
+feature: Audiences
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

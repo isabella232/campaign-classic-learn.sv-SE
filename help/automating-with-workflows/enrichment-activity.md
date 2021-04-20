@@ -5,7 +5,7 @@ description: Lär dig hur du konfigurerar en anrikningsaktivitet baserat på inf
 seo-description: En anrikningsaktivitet är ett arbetsflödesobjekt som gör att användaren kan lägga till data i arbetsregistret. Med en berikning kan du lägga till kolumner i den tabellen för att lagra ytterligare data ELLER definiera nya länkar från den aktuella tabellen till andra befintliga data.   I den här videon förklaras hur du konfigurerar en anrikningsaktivitet baserat på information i leveransloggen.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Arbetsflöden, anrikningsaktivitet
+feature: Workflows, Enrichment Activity
 topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video

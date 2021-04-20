@@ -1,7 +1,7 @@
 ---
 title: Så här importerar du profiler
 description: Lär dig hur du importerar profiler i Adobe Campaign Classic
-feature: Profiler
+feature: Profiles
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video

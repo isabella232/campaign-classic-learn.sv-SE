@@ -1,14 +1,14 @@
 ---
 title: Datasegmentering i Adobe Campaign Classic
 description: 'Förstå den integrerade kundprofilen, hur du skapar och uppdaterar profilerna och hur du skapar kundsegment baserat på dessa profiler. '
-feature: profiler, datahanteringsaktivitet
+feature: Profiles, Data Management Activity
 topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

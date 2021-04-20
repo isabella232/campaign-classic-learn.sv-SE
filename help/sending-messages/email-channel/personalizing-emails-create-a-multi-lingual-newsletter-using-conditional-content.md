@@ -1,7 +1,7 @@
 ---
 title: Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll
 description: Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel på ett flerspråkigt nyhetsbrev.
-feature: Dynamiskt innehåll
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
