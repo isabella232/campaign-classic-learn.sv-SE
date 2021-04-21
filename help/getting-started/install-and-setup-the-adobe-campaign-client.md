@@ -1,8 +1,7 @@
 ---
 title: Installera och konfigurera klienten i Adobe Campaign
 description: Lär dig hur du hämtar och installerar Adobe Campaign Client-konsolen, skapar och hanterar dina anslutningar till flera miljöer samt verifierar åtkomst till Adobe Campaign Client-konsol.
-feature: Client Console
-topics: Getting started
+feature: Klientkonsol
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner, Administrator, Developer
 level: Beginner
+exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 68%
+source-wordcount: '108'
+ht-degree: 71%
 
 ---
-
 
 # Installera och konfigurera klienten i Adobe Campaign
 
