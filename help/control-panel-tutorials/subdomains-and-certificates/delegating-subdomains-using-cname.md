@@ -1,8 +1,7 @@
 ---
 title: Delegera underdomäner med CNAME
-description: Läs mer om hur du delegerar en underdomän fullständigt till Adobe Campaign.
-feature: Control Panel
-topics: Control Panel
+description: Läs om hur du fullständigt delegerar en underdomän till Adobe Campaign.
+feature: 'Kontrollpanelen  '
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
@@ -10,28 +9,28 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 47%
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
-
 
 # Delegera underdomäner med CNAME (beta)
 
 >[!IMPORTANT]
 >
-> Användningen av CNAME för delegering av underdomäner sker i betaversion och kan ändras ofta utan föregående meddelande.
+> Användningen av CNAME för att delegera underdomäner är i betaversion och kan ändras ofta utan föregående meddelande.
 
 För att kunna börja skicka e-post eller publicera landningssidor med Adobe Campaign måste du konfigurera en ny underdomän.
 
-Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.
+Läs om hur du konfigurerar och skickar in en underdomän med CNAME i Kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
 
 ## Ytterligare resurser
 
-* [Full underdomänsdelegering (video)](./subdomain-delegation.md)
+* [Fullständig underdomändelegering (beta)](./subdomain-delegation.md)
 * [Konfigurera en ny underdomän (dokumentation)](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
