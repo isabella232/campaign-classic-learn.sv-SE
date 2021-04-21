@@ -5,8 +5,7 @@ description: Lär dig konfigurera olika arbetsflöden för godkännandevaliderin
 seo-description: Den här videon förklarar hur du konfigurerar och använder en leveransmall i ACCAdobe Campaign innehåller flera alternativ för marknadsförare som kan granska och tillhandahålla leveransinnehåll, kampanjmål, dataextrahering och budgetgodkännanden. I den här självstudiekursen beskrivs hur du konfigurerar olika arbetsflöden för godkännandevalidering.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflows, Approvals
-topics: Validation
+feature: Arbetsflöden, godkännanden
 kt: KT-1566
 doc-type: feature video
 activity: setup
@@ -15,7 +14,7 @@ role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
