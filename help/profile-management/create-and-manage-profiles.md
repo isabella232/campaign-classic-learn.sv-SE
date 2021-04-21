@@ -2,8 +2,7 @@
 title: Skapa och hantera profiler
 description: Lär dig hur du får åtkomst till profildata, sorterar och filtrerar profiler och skapar och hanterar profiler manuellt. Förstå efterlevnaden av den allmänna dataskyddsförordningen (GDPR) och Kaliforniens konsumentintegritetslag (CCPA).
 landing-page-description: Förstå begreppet profiler. Lär dig hur du får åtkomst till profildata, sorterar och filtrerar profiler och skapar och hanterar profiler manuellt. Läs mer om GDPR och CCPA.
-feature: Profiles
-topics: null
+feature: Profiler
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,7 +12,7 @@ role: Business Practitioner
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 19%
