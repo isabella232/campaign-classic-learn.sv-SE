@@ -2,8 +2,7 @@
 title: Kontrollpanelen   - Översikt
 description: Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 landing-page-description: På Kontrollpanelen kan Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter som att hantera SFTP-lagring, GPG-nycklar eller underdomäner och certifikat.
-feature: Control Panel
-topics: Control Panel
+feature: 'Kontrollpanelen  '
 kt: 3262
 doc-type: feature video
 activity: use
@@ -12,9 +11,9 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 100%
 
