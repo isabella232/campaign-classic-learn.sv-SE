@@ -3,8 +3,7 @@ title: Lägga till IP-adresser på tillåtelselistor
 seo-title: Lägga till IP-adresser på tillåtelselistor
 description: Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
 seo-description: I videon nedan förklaras hur du konfigurerar nya anslutningar till instanser genom att tillåtslista IP-adressintervall.
-feature: Control Panel
-topics: null
+feature: 'Kontrollpanelen  '
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -13,14 +12,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
+exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 72%
+source-wordcount: '219'
+ht-degree: 73%
 
 ---
-
 
 # Lägga till IP-adresser på tillåtelselistor
 
