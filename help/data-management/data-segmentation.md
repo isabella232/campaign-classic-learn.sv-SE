@@ -1,22 +1,21 @@
 ---
 title: Datasegmentering i Adobe Campaign Classic
 description: 'Förstå den integrerade kundprofilen, hur du skapar och uppdaterar profilerna och hur du skapar kundsegment baserat på dessa profiler. '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: profiler, datahanteringsaktivitet
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
-
 
 # Datasegmentering
 
@@ -45,4 +44,4 @@ Observera: Den här videon spelades in i Adobe Campaign Classic V6, men funktion
 ## Ytterligare resurser {#additional-resources}
 
 * [Måldata](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [Bästa praxis för arbetsflöden](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [Bästa praxis för arbetsflöden](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
