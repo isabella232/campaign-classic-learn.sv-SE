@@ -1,8 +1,7 @@
 ---
 title: Konfigurera dynamiskt innehåll
 description: Förstå de olika typerna av dynamiskt innehåll och lär dig hur du skapar och använder personaliseringsblock och villkorssatser i en leverans.
-feature: Dynamic Content, Personalization, Email
-topics: null
+feature: Dynamiskt innehåll, personalisering, e-post
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 20%
+source-wordcount: '81'
+ht-degree: 28%
 
 ---
-
 
 # Konfigurera dynamiskt innehåll
 
