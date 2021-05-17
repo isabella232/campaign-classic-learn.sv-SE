@@ -13,11 +13,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 73%
+source-wordcount: '221'
+ht-degree: 70%
 
 ---
 
@@ -42,4 +41,4 @@ Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens till
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Se den [detaljerade produktdokumentationen](https://helpx.adobe.com/se/campaign/kb/control-panel-instance-settings.html) för mer information om att tillåtslista IP-adresser.
+Se den [detaljerade produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html) för mer information om att tillåtslista IP-adresser.
