@@ -11,11 +11,10 @@ team: PM
 role: Administrator
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 22%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,4 +28,4 @@ Lär dig hur du kan lägga till ett IP-adressintervall i tillåtelselista.
 
 ## Ytterligare resurser
 
-[Dokumentation](https://docs.adobe.com/content/help/en/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP-intervall tillåter listning (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
