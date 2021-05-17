@@ -10,10 +10,9 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '134'
 ht-degree: 33%
 
 ---
@@ -28,9 +27,9 @@ Lär dig hur du förfinar ditt mål genom att använda en **[!UICONTROL standard
 
 Dokumentation:
 
-* [Om arbetsflöden](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Uteslutning](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/exclusion.html)
-* [Övervaka körning av arbetsflöde](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html)
+* [Om arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Skärningspunkt](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
+* [Union](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
 Självstudiekurser:
 
