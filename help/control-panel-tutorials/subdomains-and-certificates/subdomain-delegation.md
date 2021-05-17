@@ -11,11 +11,10 @@ role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 85%
+source-wordcount: '115'
+ht-degree: 74%
 
 ---
 
@@ -46,4 +45,4 @@ I videon nedan visas hur du delegerar underdomäner.
 ## Ytterligare resurser
 
 * [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Underdomäner och certifikat](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Förnya en underdomäns SSL-certifikat (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
