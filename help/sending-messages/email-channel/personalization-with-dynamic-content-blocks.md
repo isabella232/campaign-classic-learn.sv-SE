@@ -10,21 +10,18 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 67%
+source-wordcount: '124'
+ht-degree: 34%
 
 ---
 
-# Personalisera e-postmeddelanden med dynamiska innehållsblock
+# Anpassa e-postmeddelanden med personaliseringsfält
 
-I Adobe Campaign kan du personalisera innehåll eller utseendet på meddelanden och kombinera dem med kriterier från mottagarprofiler.
+Personaliseringsfält används för att personalisera innehållet i levererade meddelanden på första nivån. Fälten som du infogar i ett huvudinnehåll visar var data från en vald datakälla ska infogas.
 
-Ett personaliseringsblock är dynamiskt och personaliserat och innehåller specifik återgivningskod som kan läggas till i leveranser. Du kan till exempel lägga till bilder, e-postrubriker, e-postsidfötter, länkar till spegelsidor, länkar till att säga upp en prenumeration och mycket mer.
-
-Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att anpassa innehållet i e-postleveransen.
+Lär dig hur du lägger till ett anpassningsfält på ämnesraden och innehållet i en e-postleverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,8 +29,8 @@ Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för a
 
 Dokumentation:
 
-* [Om personalisering](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Block för personalisering](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Om personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Block för personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Självstudiekurser via video:
 
