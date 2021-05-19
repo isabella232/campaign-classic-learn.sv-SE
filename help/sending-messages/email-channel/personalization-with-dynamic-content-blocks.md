@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 34%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# Anpassa e-postmeddelanden med personaliseringsfält
 
-Personaliseringsfält används för att personalisera innehållet i levererade meddelanden på första nivån. Fälten som du infogar i ett huvudinnehåll visar var data från en vald datakälla ska infogas.
+# Personalisera e-postmeddelanden med dynamiska innehållsblock
 
-Lär dig hur du lägger till ett anpassningsfält på ämnesraden och innehållet i en e-postleverans.
+I Adobe Campaign kan du personalisera innehåll eller utseendet på meddelanden och kombinera dem med kriterier från mottagarprofiler.
+
+Ett anpassningsblock är dynamiskt, personaliserat och innehåller specifik återgivningskod som kan läggas till i leveranser. Du kan till exempel lägga till bilder, e-postrubriker, e-postsidfötter, länkar till spegelsidor, länkar till att säga upp en prenumeration och mycket mer.
+
+Lär dig hur du skapar dynamiska innehållsblock och hur du använder dem för att anpassa innehållet i e-postleveransen.
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
