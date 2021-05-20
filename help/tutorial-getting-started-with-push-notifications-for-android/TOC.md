@@ -4,9 +4,8 @@ user-guide-description: I den här självstudiekursen får du hjälp med att ski
 breadcrumb-title: Komma igång med push-meddelanden för Android
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
