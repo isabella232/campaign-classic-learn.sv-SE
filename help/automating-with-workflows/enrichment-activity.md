@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Konfigurera anrikningsaktiviteter
 
-En anrikningsaktivitet är ett arbetsflödesobjekt som gör att användaren kan lägga till data i arbetsregistret. Med en berikning kan du lägga till kolumner i den tabellen för att lagra ytterligare data eller definiera nya länkar från den aktuella tabellen till andra befintliga data.
+Anrikningsaktiviteten är ett arbetsflödesobjekt som lägger till data i arbetsregistret. Med hjälp av anrikningsaktiviteten kan du lägga till kolumner i en tabell som lagrar ytterligare data eller definierar nya länkar till andra befintliga data.
 
-I den här videon förklaras hur du konfigurerar en anrikningsaktivitet baserat på information i leveransloggen.
+Lär dig hur du konfigurerar en anrikningsaktivitet baserat på information i leveransloggen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
