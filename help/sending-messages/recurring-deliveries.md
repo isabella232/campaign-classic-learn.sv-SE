@@ -1,15 +1,15 @@
 ---
 title: Konfigurera återkommande och kontinuerliga e-postkampanjer
-description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstår skillnaderna mellan de två metoderna.
+description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstå skillnaderna mellan de två metoderna.
 feature: Arbetsflöden
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 48%
@@ -20,7 +20,7 @@ ht-degree: 48%
 
 I den här självstudiekursen beskrivs hur du ställer in en återkommande och kontinuerlig leverans och skillnaderna mellan de två metoderna.
 
-## Återkommande och kontinuerlig leveransspårning {#recurring-and-continuous-delivery-tracking}
+## Spårning av återkommande och kontinuerlig leverans {#recurring-and-continuous-delivery-tracking}
 
 De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller hur kontaktdata hanteras:
 
