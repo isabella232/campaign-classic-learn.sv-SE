@@ -6,11 +6,10 @@ kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 4%
@@ -33,7 +32,7 @@ Med Adobe Campaign integrerade kundprofil kan marknadsförarna både hämta in o
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Kundsegmentering {#customer-segmentation}
+## Kundsegmentering  {#customer-segmentation}
 
 När du har förstått profilerna är du redo att göra avancerad segmentering genom djupgående frågor om vanliga konsumentattribut och andra datakällor. Du kan skapa återanvändbara listor, dynamiskt uppdatera listor baserat på ändringar i realtid och till och med utföra mer komplexa aktiviteter, som multivariata tester på någon av dessa datapunkter.
 
