@@ -1,26 +1,25 @@
 ---
 title: Konfigurera en Android-tjänst och skapa ett Android-mobilprogram i Campaign
 description: Lär dig hur du konfigurerar en Android-tjänst och skapar ett Android-mobilprogram i Campaign. Det krävs för att vi ska kunna definiera Neotrip-appen som mål för push-meddelandet.
-feature: Tryck
+feature: Push
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 26%
 
 ---
 
 # Konfigurera en [!DNL Android]-tjänst och skapa ett [!DNL Android]-mobilprogram i Campaign
 
-Lär dig hur du konfigurerar en [!DNL Android]-tjänst och skapar ett [!DNL Android]-mobilprogram i Campaign. Det här steget krävs så att du kan definiera målmobilprogrammet för push-meddelandet.
+Lär dig hur du konfigurerar en [!DNL Android]-tjänst och skapar en mobil [!DNL Android]-app i Campaign. Det här steget krävs så att du kan definiera målmobilappen för push-meddelandet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
