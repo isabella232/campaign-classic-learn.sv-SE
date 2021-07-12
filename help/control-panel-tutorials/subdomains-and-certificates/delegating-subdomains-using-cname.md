@@ -7,13 +7,13 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 92%
 
 ---
 
@@ -31,6 +31,6 @@ Läs om hur du konfigurerar och skickar in en underdomän med CNAME i Kontrollpa
 
 ## Ytterligare resurser
 
-* [Fullständig underdomändelegering (beta)](./subdomain-delegation.md)
+* [Fullständig underdomändelegering (video)](./subdomain-delegation.md)
 * [Konfigurera en ny underdomän (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
 
