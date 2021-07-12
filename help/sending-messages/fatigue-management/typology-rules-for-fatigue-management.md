@@ -6,22 +6,21 @@ kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 3%
+ht-degree: 29%
 
 ---
 
-# Ställa in trötthetshantering med typologiregler
+# Hur man ställer in trötthetshantering med typologiregler
 
-Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att mottagare efterfrågas och används ofta med en typologiregel.
+Trötthetshanteringen styr frekvens och antal meddelanden för att undvika att mottagaren överbelastas och används ofta med en typologiregel.
 
-Typologiregler gör det möjligt för marknadsförare att standardisera affärspraxis för alla leveranser mer effektivt för att styra kampanjmeddelanden till kunder. De gör detta genom att eliminera behovet av att tillämpa undantag eller vanliga regler för varje enskild kampanj. Mottagare som matchar kriterier inom en *typologiregel* exkluderas från leveransen under analysfasen.
+Typologiregler gör det möjligt för marknadsförare att standardisera affärspraxis för alla leveranser och mer effektivt styra kampanjmeddelanden till kunder. De gör detta genom att eliminera behovet av att tillämpa undantag eller vanliga regler för varje enskild kampanj. Mottagare som matchar kriterier inom en *typologiregel* exkluderas från leveransen under analysfasen.
 
 Vanligtvis grupperas en uppsättning *typologiregler* inom en *typologi* för att enkelt tillämpa flera filtreringsregler på en leverans samtidigt.
 
