@@ -1,28 +1,27 @@
 ---
 title: Anpassa e-postmeddelanden med personaliseringsfält
-description: Lär dig hur du lägger till ett anpassningsfält på ämnesraden och innehållet i en e-postleverans.
+description: Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
 feature: Dynamiskt innehåll
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 37%
+ht-degree: 84%
 
 ---
 
 # Anpassa e-postmeddelanden med personaliseringsfält
 
-Personaliseringsfält används för att personalisera innehållet i levererade meddelanden på första nivån. Fälten som du infogar i ett huvudinnehåll visar var data från en vald datakälla ska infogas.
+Personaliseringsfält används för att personalisera innehållet i levererade meddelanden. Fälten som infogas i ett huvudinnehåll visar var data från den valda datakällan ska infogas.
 
-Lär dig hur du lägger till ett anpassningsfält på ämnesraden och innehållet i en e-postleverans.
+Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
