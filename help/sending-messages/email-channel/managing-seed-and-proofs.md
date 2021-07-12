@@ -1,5 +1,5 @@
 ---
-title: Så hanterar man frön och korrektur i ett e-postmeddelande
+title: Så hanterar du frön och korrektur i ett e-postmeddelande
 description: Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
 feature: E-post
 kt: 2178
@@ -7,18 +7,17 @@ thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 33%
 
 ---
 
-# Så hanterar man frön och korrektur i ett e-postmeddelande
+# Så hanterar du frön och korrektur i ett e-postmeddelande
 
 Lär dig hur du lägger till frön och korrektur i ett befintligt e-postmeddelande och hur du skickar det.
 
