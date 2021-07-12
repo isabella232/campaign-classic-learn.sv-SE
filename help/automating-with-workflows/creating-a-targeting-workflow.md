@@ -1,24 +1,24 @@
 ---
-title: Skapa ett målarbetsflöde
-description: Lär dig hur du definierar flera leveransmål med hjälp av arbetsflöden med målinriktning.
-feature: arbetsflöden, målaktivitet, frågeredigeraren
+title: Skapa ett molninriktat arbetsflöde
+description: Lär dig hur du definierar flera leveransmål med hjälp av målinriktade arbetsflöden.
+feature: Arbetsflöden, målinriktad aktivitet, frågeredigeraren
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 47%
 
 ---
 
-# Skapa ett målarbetsflöde
+# Skapa ett molninriktat arbetsflöde
 
-Adobe Campaign använder arbetsflöden för att genomföra riktade kampanjer, bygga kampanjer eller köra Adobe Campaign tekniska processer. I den här videon kommer vi att fokusera på arbetsflöden för målinriktning. Med målarbetsflöden kan du skapa flera leveransmål.
+Adobe Campaign använder arbetsflöden för att genomföra målinriktade kampanjer, bygga kampanjer eller köra tekniska processer i Adobe Campaign. I den här videon kommer vi att fokusera på arbetsflöden för målinriktning. Med målarbetsflöden kan du skapa flera leveransmål.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
