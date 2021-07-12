@@ -5,10 +5,10 @@ breadcrumb-title: Självstudiekurser om kontrollpanelen
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: 'Kontrollpanelen  '
-role: Administrator
+role: Admin
 level: Experienced
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
