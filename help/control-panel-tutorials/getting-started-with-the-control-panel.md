@@ -1,30 +1,29 @@
 ---
 title: Komma igång med kontrollpanelen
 description: Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
-feature: Control Panel
+feature: 'Kontrollpanelen  '
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
+exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 34%
+source-wordcount: '286'
+ht-degree: 52%
 
 ---
-
 
 # Komma igång med [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
-> Kontrollpanelen är tillgänglig för alla administratörsanvändare. Anvisningar om hur du beviljar administratörsåtkomst till en användare finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
+> Kontrollpanelen är tillgänglig för alla administratörsanvändare. Anvisningar om hur du beviljar administratörsåtkomst till en användare finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=sv#discover-control-panel).
 >
-> Observera att din instans måste vara värd för AWS och uppgraderas med den senaste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)-versionen eller den senaste [GA-versionen (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Lär dig hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Om du vill kontrollera om din instans finns på AWS följer du stegen som beskrivs i [den här sidan](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+> Observera att din instans måste vara värd för AWS och uppgraderas med den senaste [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=sv)-versionen eller den senaste [GA-versionen (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Läs om hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Följ stegen på [den här sidan](https://experienceleague.adobe.com/docs/control-panel/using/faq.html) för att kontrollera om instanser har AWS som värd.
 
 Med [!UICONTROL Control Panel] kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa åtgärder, som att hantera [!DNL SFTP]-lagring efter instans, hantera [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
@@ -63,4 +62,3 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 ## Ytterligare resurser
 
 * [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
-
