@@ -7,28 +7,27 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 16%
+ht-degree: 92%
 
 ---
 
 # Konfigurera en leveransmall
 
-Marknadsföringsavdelningarna tar fram leveransmallar för att standardisera den kreativa utseendet och känslan, så att de kan genomföra och lansera kampanjer snabbare.
+Marknadsföringsavdelningarna tar fram leveransmallar för att standardisera det kreativa utseendet och känslan, så att de kan genomföra och lansera kampanjer snabbare.
 
 En mall kan systematiskt innehålla:
 
 * Typologier
-* Avsändares- och svarsadresser
+* Avsändare och svarsadresser
 * Grundläggande personaliseringsblock
-* Länkar för att spegla sidor och ta bort prenumeration
+* Länkar till spegelsidor och för att ta bort prenumeration
 * Innehåll, företagslogotyp eller -signatur
 * Andra leveransegenskaper, som resursgiltighet, batchkvantiteter, ...
 
@@ -45,7 +44,7 @@ Instruktionsvideor
 
 Dokumentation:
 
-* [Om mallar](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Skapa en leveransmall](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Välja en målgrupp att kartlägga](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Skapa en leverans från en mall](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Om mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=sv)
+* [Skapa en leveransmall](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=sv)
+* [Välja en målgrupp att kartlägga](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=sv)
+* [Skapa en leverans från en mall](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=sv)
