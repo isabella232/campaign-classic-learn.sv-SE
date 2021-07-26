@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 33%
+source-wordcount: '52'
+ht-degree: 5%
 
 ---
 
@@ -25,4 +25,4 @@ Lär dig hur du skapar e-postleveranser direkt från en kampanj.
 
 ## Ytterligare resurser
 
-* [Användningsfall: skapa en e-postleverans](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case?lang=sv)
+* [Användningsfall: Skapa en e-postleverans (dokumentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
