@@ -9,24 +9,16 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: 337da1cf74535e99d4b1b51ce7900054e6b3cb4b
+source-git-commit: 9e48cf10e4f1f264fb84bda07458dfc80e082a08
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 51%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Skapa ett arbetsflöde
 
 Adobe Campaign har en arbetsflödesmodul som gör att du kan ställa in alla processer och uppgifter i olika moduler på programservern. I den omfattande grafiska miljön kan du utforma processer såsom segmentering, kampanjkörning, filhantering och mänskligt deltagande osv. Arbetsflödesmotorn kör och spårar dessa processer.
-
-Arbetsflöden sker i olika sammanhang och under olika faser av kampanjhanteringsprocessen.
-
-Adobe Campaign använder arbetsflöden för att
-
-* Utför riktade kampanjer. Mer information finns i [Implementeringssteg](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* Skapa kampanjer: för varje kampanj kan du på fliken **Arbetsflöde** skapa målet och leveranserna. Mer information finns i [Kampanjarbetsflöden](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* Adobe Campaign tekniska processer: rensning, insamling av spårningsinformation eller preliminära beräkningar. Mer information finns i [Tekniska arbetsflöden](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
 I den här videon förklaras hur du skapar ett arbetsflöde i Adobe Campaign Classic.
 
