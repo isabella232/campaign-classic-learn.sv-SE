@@ -1,6 +1,6 @@
 ---
 title: Hantera marknadsföringskampanjer
-description: Förstå de viktigaste begreppen i Adobe Campaign som hjälper dig att effektivt planera, genomföra och mäta tvärkanals-marknadsföringskampanjer.
+description: Förstå nyckelbegreppen i Adobe Campaign som hjälper er att effektivt planera, genomföra och mäta flerkanalskampanjer.
 feature: Kampanjer
 kt: 5077
 thumbnail: 35131.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: dde42d8f7f43a15062c9644276fa71b1c7757886
+source-git-commit: 32ec5c28ea0bb3947b30dd78341e144f6ce273a4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 61%
+source-wordcount: '41'
+ht-degree: 17%
 
 ---
 
