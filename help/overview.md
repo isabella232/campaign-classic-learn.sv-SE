@@ -6,7 +6,7 @@ feature: Översikt
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 226eee423845302431044fc0cff44f30651a0791
+source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 80%
@@ -18,7 +18,6 @@ ht-degree: 80%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V7.
 
 >[!INFO]
-> 
 > Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet?
 Delta i konversationen i [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
