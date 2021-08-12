@@ -1,21 +1,26 @@
 ---
 title: Självstudiekurser om Adobe Campaign Classic – översikt
-description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
+description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Översikt
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 226eee423845302431044fc0cff44f30651a0791
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 80%
 
 ---
 
 # Introduktionskurs för Adobe Campaign Classic V7 – översikt
 
-Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjutformning interaktionshantering i realtid via flera olika kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V7.
+Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V7.
+
+>[!INFO]
+> 
+> Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet?
+Delta i konversationen i [Adobe Campaign Learning Community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 ## Nyheter
 
@@ -88,4 +93,4 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Ytterligare resurser
 
-* [Dokumentation](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
+* [Dokumentation](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
