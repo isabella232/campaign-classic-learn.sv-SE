@@ -7,7 +7,7 @@ index: true
 feature: Översikt
 role: Admin
 level: Experienced
-source-git-commit: e83fd769f7a7395ba12798cb662988c8eb1d1419
+source-git-commit: 62b17af7b0fdc522eea11a89bb9f6a5c2b70609e
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 4%
@@ -17,4 +17,4 @@ ht-degree: 4%
 
 # Felsöka Adobe Campaign {#troubleshooting}
 
-+ [Felsök Adobe Campaign - översikt](help/troubleshoot-adobe-campaign/overview.md)
++ [Felsök Adobe Campaign - översikt](/help/troubleshoot-adobe-campaign/overview.md)
