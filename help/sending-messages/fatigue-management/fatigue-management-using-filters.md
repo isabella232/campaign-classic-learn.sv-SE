@@ -9,10 +9,10 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 25%
+source-wordcount: '101'
+ht-degree: 42%
 
 ---
 
@@ -26,4 +26,4 @@ I den här videon förklaras hur du implementerar trötthetshantering i Adobe Ca
 
 ## Ytterligare resurser
 
-* [Om kampanjtypologier](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [Om kampanjtypologier](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=sv)
