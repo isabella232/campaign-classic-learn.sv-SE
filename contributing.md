@@ -1,8 +1,8 @@
 ---
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '293'
+ht-degree: 16%
 
 ---
 # Bidrar
@@ -29,13 +29,14 @@ konsensus om projektriktning och skicka ut lösningar inom problemtrådar
 ## Licensavtal för deltagare
 
 Alla bidrag från tredje part till detta projekt måste åtföljas av en undertecknad bidragsgivare
-licensavtal. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Underteckna vårt CLA](http://opensource.adobe.com/cla.html). Du
+licensavtal. Detta ger Adobe tillstånd att återdistribuera dina bidrag som en del av projektet. [Underteckna vårt CLA](https://opensource.adobe.com/cla.html). Du
 behöver bara skicka ett Adobe CLA en gång, så om du har skickat in ett tidigare,
 Du är redo att gå!
 
 ## Kodgranskningar
 
-Alla inskick ska ske som pull-begäranden och måste granskas av projektansvariga. Mer information om hur du skickar pull-begäranden finns i [dokumentationen för GitHub](https://help.github.com/articles/about-pull-requests/).
+Alla inlagor ska lämnas in i form av en begäran om utlysning och ska granskas
+efter projektcommitters. Mer information om hur du skickar pull-begäranden finns i [dokumentationen för GitHub](https://help.github.com/articles/about-pull-requests).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
