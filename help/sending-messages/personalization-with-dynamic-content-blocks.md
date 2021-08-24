@@ -1,16 +1,15 @@
 ---
-title: Så här personaliserar du e-postmeddelanden med dynamiska innehållsblock
+title: Så personaliserar du e-postmeddelanden med dynamiska innehållsblock
 description: I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, använda JavaScript-kod i leveransmallar samt standardisera och dela innehållsblock i olika leveransmallar.
 feature: Dynamiskt innehåll
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -28,7 +27,7 @@ I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, anv�
 
 ## Skapa och lägga till ett personaliseringsblock i en leverans
 
-Ett personaliseringsblock är dynamiskt och personaliserat och innehåller specifik återgivningskod som kan läggas till i leveranser. Du kan till exempel lägga till bilder, e-postrubriker, e-postsidfötter, länkar till spegelsidor, länkar till att säga upp en prenumeration och mycket mer.
+Ett anpassningsblock är dynamiskt och innehåller specifik återgivningskod som kan läggas till i leveranser. Du kan till exempel lägga till bilder, e-postrubriker, e-postsidfötter, länkar till spegelsidor, länkar till att säga upp en prenumeration och mycket mer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad p
 
 ## Ytterligare resurser
 
-* [Om personalisering](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Om personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
