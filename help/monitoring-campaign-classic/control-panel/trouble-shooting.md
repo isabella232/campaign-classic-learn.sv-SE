@@ -1,16 +1,15 @@
 ---
 title: Felsöka kontrollpanelen
-description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
 feature: 'Kontrollpanelen  '
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '332'
+ht-degree: 42%
 
 ---
 
@@ -19,26 +18,26 @@ ht-degree: 100%
 
 ## Logga in och hemsida
 
-### Symptom: Det går inte att logga in på Experience Cloud
+### Symptom: Det går inte att logga in i Experience Cloud
 
-**Så här gör du:**
-Användaren måste hitta sitt IMS-organisations-ID (xxx). Administratören måste lägga till användaren i produktprofilen &quot;Campaign-xxx-Admins&quot; för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som användare.
+**Vad du ska göra:**
+Användaren måste hitta sitt IMS-org-ID (xxx). Administratören måste lägga till användaren i produktprofilen&quot;Campaign-xxx-Admins&quot; för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som användare.
 
 ### Symptom: Länkar i Experience Cloud Home för åtkomst till [!UICONTROL Control Panel] visas inte för en användare
 
 **Orsak:**
 Användare kan inte se länkarna förrän de har lagts till som användare i produktprofilen _Campaign-xxx-Administrators/Admin_.
 
-**Så här gör du:**
-Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-Admins_ för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som &quot;användare&quot;.
+**Vad du ska göra:**
+Administratören måste lägga till användaren i produktprofilen  _Campaign-xxx-_  Adminsför varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som &quot;användare.
 
 ### Symptom: En instans visas inte i [!UICONTROL Control Panel]
 
-**Orsak:**
-Troligtvis måste användaren läggas till som en &quot;användare&quot; i produktprofilen _Campaign-xxx-Administrators/Admin_ i den instans som saknas
+**Orsak:Den**
+mest troliga användaren måste läggas till som en&quot;användare&quot;-produktprofil  _Campaign-xxx-Administrators/_ Adminför den instans som saknas
 
-**Så här gör du:**
-Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-Admins_ för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som &quot;användare&quot;.
+**Vad du ska göra:**
+Administratören måste lägga till användaren i produktprofilen  _Campaign-xxx-_  Adminsför varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som&quot;användare&quot;.
 
 ### Användbara videor
 
@@ -52,18 +51,18 @@ Administratören måste lägga till användaren i produktprofilen _Campaign-xxx-
 
 ### Användbar dokumentation
 
-* [Lär känna kontrollpanelen](https://helpx.adobe.com/se/campaign/kb/control-panel-overview.html)
-* [Hantera behörigheter i [!UICONTROL Control Panel]](https://helpx.adobe.com/se/campaign/kb/control-panel-access.html)
+* [Lär känna kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
+* [Hantera behörigheter i [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Upprätta en anslutning till en SFTP-server (klient eller API)
 
 För anslutning till SFTP-servrar krävs:
 
 * [!UICONTROL Allow listing]-IP-adressen som används för anslutning till SFTP-servern
-* ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
-* Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
+* Privat/offentlig nyckel som måste registreras hos Adobe Campaign
+* Om du ansluter till SFTP-servern direkt behöver du SFTP-klientprogramvara
 
 ### Användbar dokumentation {#helpful-docs}
 
-* [Logga in på SFTP-servern](https://helpx.adobe.com/se/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Logga in på SFTP-servern](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
