@@ -1,5 +1,5 @@
 ---
-title: Skapa en lista med mottagare med ett arbetsflöde
+title: Skapa en lista med mottagare med hjälp av ett arbetsflöde
 description: Lär dig hur du skapar en målgrupp genom att konfigurera en lista med mottagare från Utforskaren.
 feature: Målgrupper
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 50%
+ht-degree: 42%
 
 ---
 
@@ -27,7 +27,7 @@ Lär dig hur du skapar ett arbetsflöde för att rikta in dig på mottagare och 
 
 Dokumentation:
 
-* [Skapa och hantera listor](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Skapa och hantera listor](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Självstudiekurser:
 
