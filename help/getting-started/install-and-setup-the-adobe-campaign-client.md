@@ -1,5 +1,5 @@
 ---
-title: Installera och konfigurera klienten i Adobe Campaign
+title: Installera och konfigurera Adobe Campaign Client
 description: Lär dig hur du laddar ned och installerar klientkonsolen i Adobe Campaign, skapar och hanterar anslutningar till flera miljöer samt verifierar åtkomst till klientkonsolen i Adobe Campaign.
 feature: Klientkonsol
 kt: 5003
@@ -10,14 +10,14 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 63%
 
 ---
 
-# Installera och konfigurera klienten i Adobe Campaign
+# Installera och konfigurera Adobe Campaign Client
 
 I följande video förklaras hur du laddar ned och installerar klientkonsolen i Adobe Campaign, skapar och hanterar anslutningar till flera miljöer samt verifierar åtkomst till klientkonsolen i Adobe Campaign.
 
@@ -25,6 +25,6 @@ I följande video förklaras hur du laddar ned och installerar klientkonsolen i 
 
 ## Ytterligare resurser
 
-* [Kompatibilitetsmatris](https://helpx.adobe.com/se/campaign/kb/compatibility-matrix.html)
-* [Installera klientkonsolen](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/installing-campaign-classic/installing-campaign-in-windows-/installing-the-client-console.html)
-* [Implementeringsguide för Campaign Classic](https://helpx.adobe.com/se/campaign/kb/acc-implementation.html)
+* [Kompatibilitetsmatris](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
+* [Installera klientkonsolen](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
+* [Implementeringsguide för Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html)
