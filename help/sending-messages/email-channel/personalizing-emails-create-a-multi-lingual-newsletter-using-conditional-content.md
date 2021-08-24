@@ -1,5 +1,5 @@
 ---
-title: Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll
+title: Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll
 description: Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel på ett flerspråkigt nyhetsbrev.
 feature: Dynamiskt innehåll
 kt: 5922
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 64%
+source-wordcount: '116'
+ht-degree: 39%
 
 ---
 
-# Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll
+# Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll
 
 Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad personalisering. Fullständiga textblock och/eller bilder ersätts när ett visst villkor uppfyllts.
 
@@ -29,8 +29,8 @@ Lär dig hur du lägger till villkorligt innehåll i en leverans med ett exempel
 
 Dokumentation:
 
-* [Om personalisering](https://docs.adobe.com/content/help/sv-SE/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Villkorligt innehåll](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Om personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Villkorligt innehåll](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Självstudiekurser via video:
 
