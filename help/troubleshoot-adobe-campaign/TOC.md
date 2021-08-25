@@ -7,9 +7,9 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Filtrera arbetsflöden efter villkor för att behålla resultat](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + Leveranser och kanaler {#deliveries-and-channels}
    + [Felsökningsmeddelandet avbröts i en leverans](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [SMS-leverans pågår](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [SMS-leverans väntar](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [Stor loggstatus är felaktig när ett SMS skickas till ett felaktigt nummer](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + Systemadministration {#administration}
    + [Tillåt att alla IP-adresser gör SOAP API-anrop](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
