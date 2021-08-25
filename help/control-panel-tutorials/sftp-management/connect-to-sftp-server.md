@@ -1,7 +1,7 @@
 ---
-title: Ansluta till en SFTP-server
+title: '     Ansluta till en SFTP-server     '
 description: Lär dig hur du ansluter till SFTP-servern med ett klient-SFTP-program med hjälp av de tangenter som du har sparat på Kontrollpanelen.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 84%
+source-wordcount: '149'
+ht-degree: 60%
 
 ---
 
@@ -29,13 +29,13 @@ För att få åtkomst till SFTP-hantering på kontrollpanelen ska du gå du till
    eller
 * Direkt från webbadressen: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## Så här ansluter du till en SFTP-server
+## Ansluta till en SFTP-server
 
 För att ansluta till SFTP-servrar krävs:
 
 * att IP-adressen som används för att ansluta till SFTP-servern tillåtslistas
-* ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
-* Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
+* Privat/offentlig nyckel som måste registreras hos Adobe Campaign
+* Om du ansluter till SFTP-servern direkt behöver du också SFTP-klientprogramvara
 
 I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 
