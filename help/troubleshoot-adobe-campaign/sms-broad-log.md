@@ -1,7 +1,7 @@
 ---
 title: Stor loggstatus är felaktig när ett SMS skickas till ett felaktigt nummer
 description: Lär dig hur du felsöker problemet med den breda loggstatusen för SMS som visas när ett SMS skickas till ett felaktigt nummer.
-feature: null
+feature: SMS
 role: Admin
 level: Experienced
 topic: Development
