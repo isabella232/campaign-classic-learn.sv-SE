@@ -4,15 +4,15 @@ description: Lär dig hur du felsöker problemet med den breda loggstatusen för
 feature: SMS
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8424
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+exl-id: 862ae1f3-4fdc-4ed3-b5c8-edc4f7ab2d90
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Stor loggstatus är felaktig när ett SMS skickas till ett felaktigt nummer
 
