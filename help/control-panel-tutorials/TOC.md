@@ -2,13 +2,12 @@
 user-guide-title: Självstudiekurser om Kontrollpanelen i Adobe Campaign
 user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
-breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: ht
+source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
