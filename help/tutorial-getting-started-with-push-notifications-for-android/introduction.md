@@ -1,6 +1,6 @@
 ---
 title: Komma igång med push-meddelanden för Android – inledning
-description: Denna självstudiekurs visar steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android-app.
+description: I den här självstudiekursen visas steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android-app.
 feature: Push
 kt: 6438
 doc-type: article
@@ -10,8 +10,8 @@ role: Admin, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '366'
+workflow-type: ht
+source-wordcount: '365'
 ht-degree: 100%
 
 ---
