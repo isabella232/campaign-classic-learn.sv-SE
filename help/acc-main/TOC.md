@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '369'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 95%
 + [Översikt](/help/overview.md)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Installera och konfigurera klienten i Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Installera och konfigurera Adobe Campaign-klienten](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Utforska användargränssnittet i Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Hantera marknadsföringskampanjer](/help/getting-started/managing-marketing-campaigns.md)
    + [Skapa en marknadsföringsplan, program och kampanjer](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
@@ -41,14 +41,14 @@ ht-degree: 95%
       + [Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Hantera startvärde och bevis i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)
+      + [Använd kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)
       + [Konfigurera dynamiskt innehåll](/help/sending-messages/email-channel/configuring-dynamic-content.md)
-      + [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [Personalisera e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [Personalisera e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Anpassa e-postmeddelanden med anpassningsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Anpassa e-postmeddelanden – skapa ett flerspråkigt nyhetsbrev med villkorsberoende innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Felsöka e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Felsök e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
@@ -56,12 +56,12 @@ ht-degree: 95%
    + Push-kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurera push-kanal med Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Komma igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
+      + [Kom igång med push-meddelanden för Android (självstudiekurs)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=sv)
    + Direktutskick {#direct-mail}
       + [Skapa leveranser med direktutskick](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Använd leveransmallar{#using-delivery-templates}
       + [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-      + [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
+      + [Ställ in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuera en ad-hoc-leveransmall för e-post](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
@@ -77,10 +77,10 @@ ht-degree: 95%
    + [Generera en beskrivande analysrapport](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automatisera med arbetsflöde{#automating-with-workflows}
    + [Skapa ett arbetsflöde](/help/automating-with-workflows/creating-a-workflow.md)
-   + [Skapa ett molninriktat arbetsflöde](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Skapa ett målinriktat arbetsflöde](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Förfina mål genom att kombinera frågeresultat](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [Använd aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Konfigurera valideringsarbetsflöden](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
@@ -96,4 +96,4 @@ ht-degree: 95%
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=sv)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Felsöka Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
