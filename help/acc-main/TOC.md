@@ -4,15 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
-workflow-type: ht
+source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
+workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 100%
 
