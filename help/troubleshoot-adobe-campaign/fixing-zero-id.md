@@ -1,5 +1,5 @@
 ---
-title: Åtgärdar noll-ID
+title: Åtgärda noll-ID
 description: Lär dig hur du åtgärdar problemet med noll-ID med hjälp av frågan infoga
 feature: Query Editor
 role: Admin
@@ -8,9 +8,9 @@ type: Troubleshooting
 kt: 8430
 exl-id: 62b8b245-944e-40ce-8cae-a052cf96c99f
 source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '28'
+ht-degree: 100%
 
 ---
 
