@@ -1,7 +1,7 @@
 ---
 title: Hur säkerställer jag levererbarheten när jag utformar e-postmeddelanden?
 description: Läs om hur du tillämpar god praxis för levererbarhet.
-feature: E-post, levererbarhet
+feature: Email, Deliverability
 kt: 5095
 thumbnail: 330943.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '43'
+workflow-type: ht
+source-wordcount: '41'
 ht-degree: 100%
 
 ---
