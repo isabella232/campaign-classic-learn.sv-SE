@@ -1,7 +1,7 @@
 ---
 title: Så här målar du profiler i ett arbetsflöde
 description: Förstå hur du använder kampanjarbetsflöden, hur du skapar ett arbetsflöde och riktar in dig mot profiler i ett arbetsflöde med filter.
-feature: Arbetsflöden
+feature: Workflows
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 73%
 
 ---
@@ -27,7 +27,7 @@ Förstå hur du använder kampanjarbetsflöden, hur du skapar ett arbetsflöde o
 
 * [Förfina mål genom att kombinera frågeresultat](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Använda aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Använd aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Ytterligare resurser
 

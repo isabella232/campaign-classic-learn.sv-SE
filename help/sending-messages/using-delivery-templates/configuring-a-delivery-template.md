@@ -1,7 +1,7 @@
 ---
 title: Konfigurera en leveransmall i Adobe Campaign Classic
 description: Lär dig hur du konfigurerar en mall för en ad hoc-leverans.
-feature: Leveransmallar
+feature: Delivery Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 92%
 
 ---
@@ -39,7 +39,7 @@ I följande video visas hur du konfigurerar en mall för en ad hoc-leverans.
 
 Instruktionsvideor
 
-* [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
+* [Ställ in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
 * [Distribuera en ad-hoc-leveransmall för e-post](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
 
 Dokumentation:

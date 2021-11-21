@@ -12,14 +12,14 @@ level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 source-git-commit: e89f2b239a3d783e7fddbb5c9249524db0018cc5
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '69'
+ht-degree: 5%
 
 ---
 
 # Konfigurera och skicka push-meddelanden
 
-Lär dig hur du konfigurerar och skickar ett [!DNL push]-meddelande till användare av [!DNL Android]-program.
+Lär dig konfigurera och skicka en [!DNL push] meddelanden till användare om [!DNL Android] program.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 

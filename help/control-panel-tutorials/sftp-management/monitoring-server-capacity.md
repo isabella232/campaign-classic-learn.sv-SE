@@ -1,7 +1,7 @@
 ---
 title: Övervaka serverkapacitet
 description: Lär dig hur du övervakar och hanterar SFTP-lagringen per instans och lägger till IP-adresser i tillåtelselista.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -14,14 +14,14 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 53%
+source-wordcount: '90'
+ht-degree: 80%
 
 ---
 
 # Övervaka serverkapacitet
 
-På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans.
+Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans.
 
 ## Åtkomst till [!UICONTROL Control Panel] för att hantera underdomäner
 

@@ -1,43 +1,43 @@
 ---
 title: Felsöka kontrollpanelen
 description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 42%
+source-wordcount: '330'
+ht-degree: 80%
 
 ---
 
 
 # Felsöka [!UICONTROL Control Panel]
 
-## Logga in och hemsida
+## Inloggning och hemsida
 
-### Symptom: Det går inte att logga in i Experience Cloud
+### Symptom: Det går inte att logga in på Experience Cloud
 
-**Vad du ska göra:**
-Användaren måste hitta sitt IMS-org-ID (xxx). Administratören måste lägga till användaren i produktprofilen&quot;Campaign-xxx-Admins&quot; för varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som användare.
+**Gör så här:**
+Användaren måste hitta sitt IMS-organisations-ID (xxx). Administratören måste lägga till användaren i produktprofilen &quot;Campaign-xxx-Admins&quot; för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som användare.
 
 ### Symptom: Länkar i Experience Cloud Home för åtkomst till [!UICONTROL Control Panel] visas inte för en användare
 
 **Orsak:**
 Användare kan inte se länkarna förrän de har lagts till som användare i produktprofilen _Campaign-xxx-Administrators/Admin_.
 
-**Vad du ska göra:**
-Administratören måste lägga till användaren i produktprofilen  _Campaign-xxx-_  Adminsför varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som &quot;användare.
+**Gör så här:**
+Administratören måste lägga till användaren i Product Profile _Campaign-xxx-Admins_ för varje instans som de ska hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som &quot;användare.
 
 ### Symptom: En instans visas inte i [!UICONTROL Control Panel]
 
-**Orsak:Den**
-mest troliga användaren måste läggas till som en&quot;användare&quot;-produktprofil  _Campaign-xxx-Administrators/_ Adminför den instans som saknas
+**Orsak:**
+Den mest troliga användaren måste läggas till som en &quot;användare&quot;-produktprofil _Campaign-xxx-Administrators/Admin_ för instansen som saknas
 
-**Vad du ska göra:**
-Administratören måste lägga till användaren i produktprofilen  _Campaign-xxx-_  Adminsför varje instans som han/hon vill hantera. Om användaren är administratör för alla instanser måste han eller hon lägga till sig själv som&quot;användare&quot;.
+**Gör så här:**
+Administratören måste lägga till användaren i Produktprofil _Campaign-xxx-Admins_  för varje instans som ska hanteras. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som &quot;användare&quot;.
 
 ### Användbara videor
 
@@ -59,7 +59,7 @@ Administratören måste lägga till användaren i produktprofilen  _Campaign-xxx
 För anslutning till SFTP-servrar krävs:
 
 * [!UICONTROL Allow listing]-IP-adressen som används för anslutning till SFTP-servern
-* Privat/offentlig nyckel som måste registreras hos Adobe Campaign
+* Ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du SFTP-klientprogramvara
 
 ### Användbar dokumentation {#helpful-docs}

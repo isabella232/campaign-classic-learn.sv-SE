@@ -1,14 +1,14 @@
 ---
 title: Så personaliserar du e-postmeddelanden med dynamiska innehållsblock
 description: I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, använda JavaScript-kod i leveransmallar samt standardisera och dela innehållsblock i olika leveransmallar.
-feature: Dynamiskt innehåll
+feature: Dynamic Content
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '252'
 ht-degree: 70%
 
 ---

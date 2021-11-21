@@ -1,7 +1,7 @@
 ---
 title: Ange egenskaper för leveransmallar i Adobe Campaign Classic
 description: Lär dig hur du konfigurerar egenskaper för leveransmallar.
-feature: Leveransmallar
+feature: Delivery Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 79%
 
 ---
 
-# Ställa in egenskaper för leveransmallar {#setting-the-delivery-template-properties}
+# Ställ in egenskaper för leveransmallar {#setting-the-delivery-template-properties}
 
 I följande video visas hur du ställer in leveransmallsegenskaperna och förklarar varje egenskap i detalj.
 

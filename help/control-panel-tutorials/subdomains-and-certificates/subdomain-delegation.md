@@ -1,7 +1,7 @@
 ---
 title: Fullständig delegering av underdomäner
-description: Läs om hur du fullständigt delegerar en underdomän till Adobe Campaign.
-feature: 'Kontrollpanelen  '
+description: Läs om hur du delegerar en underdomän fullständigt till Adobe Campaign.
+feature: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 74%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
-> Deldomänsdelegering från [!UICONTROL Control Panel] är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande.
+> Deldomänsdelegering från [!UICONTROL Control Panel] finns i betaversion och kan uppdateras och ändras ofta utan föregående meddelande.
 
 Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign.
 

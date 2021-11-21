@@ -1,7 +1,7 @@
 ---
-title: ' Utöka appens prenumerationschema för att personalisera push-aviseringar'
+title: Utöka appens prenumerationschema för att personalisera push-aviseringar
 description: Lär dig hur du utökar appens prenumerationsschema för att kunna lagra personaliseringsvärden som Campaign tar emot från en mobilapp.
-feature: Push, Schematillägg
+feature: Push, Schema Extension
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 40%
+source-wordcount: '89'
+ht-degree: 38%
 
 ---
 
-# Utöka schemat [!UICONTROL app subscription] för att anpassa push-meddelanden
+# Utöka [!UICONTROL app subscription] schema för att anpassa push-meddelanden
 
-Lär dig hur du utökar schemat [!UICONTROL app subscription] så att det går att lagra personaliseringsvärden [!DNL Campaign] som tas emot från en mobilapp.
+Lär dig att utöka [!UICONTROL app subscription] schema för att kunna lagra personaliseringsvärden [!DNL Campaign] tar emot från en mobilapp.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 

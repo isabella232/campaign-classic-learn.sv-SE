@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 26%
+source-wordcount: '139'
+ht-degree: 25%
 
 ---
 
-# Konfigurera en [!DNL Android]-tjänst och skapa ett [!DNL Android]-mobilprogram i Campaign
+# Konfigurera en [!DNL Android] och skapa [!DNL Android] mobilapplikation i Campaign
 
 Lär dig hur du konfigurerar en [!DNL Android]-tjänst och skapar en mobil [!DNL Android]-app i Campaign. Det här steget krävs så att du kan definiera målmobilappen för push-meddelandet.
 

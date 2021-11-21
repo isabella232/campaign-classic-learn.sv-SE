@@ -1,7 +1,7 @@
 ---
 title: Skapa händelseaktiverade kampanjer
 description: Läs om hur du skapar en händelseaktiverad kampanj och förstå hur den används.
-feature: Arbetsflöden, målinriktad aktivitet
+feature: Workflows, Targeting Activity
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '32'
 ht-degree: 100%
 
 ---

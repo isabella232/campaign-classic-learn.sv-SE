@@ -1,7 +1,7 @@
 ---
 title: Anpassa e-postmeddelanden med personaliseringsfält
 description: Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
-feature: Dynamiskt innehåll
+feature: Dynamic Content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 68%
 
 ---
@@ -34,5 +34,5 @@ Dokumentation:
 
 Självstudiekurser:
 
-* [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)

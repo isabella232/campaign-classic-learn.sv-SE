@@ -1,7 +1,7 @@
 ---
 title: Konfigurera dynamiskt innehåll
 description: Förstå de olika typerna av dynamiskt innehåll och lär dig hur du skapar och använder personaliseringsblock och villkorssatser i en leverans.
-feature: Dynamiskt innehåll, personalisering, e-post
+feature: Dynamic Content, Personalization, Email
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 79%
+source-wordcount: '77'
+ht-degree: 77%
 
 ---
 
@@ -31,5 +31,5 @@ Produktdokumentation:
 
 Videosjälvstudiekurser:
 
-* [Personalisera e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [Anpassa e-postmeddelanden med personaliseringsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)

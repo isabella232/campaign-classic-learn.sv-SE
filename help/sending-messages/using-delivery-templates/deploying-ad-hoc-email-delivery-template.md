@@ -1,7 +1,7 @@
 ---
 title: Distribuera en mall för tillfällig e-postleverans i Adobe Campaign Classic
 description: 'Lär dig hur du distribuerar en e-postleveransmall och förstår skillnaden mellan en e-postleverans och ett leveransarbetsflöde. '
-feature: Leveransmallar
+feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 61%
 
 ---
@@ -27,7 +27,7 @@ I den här videon förklaras hur du distribuerar en mall för ad hoc-e-postlever
 
 Instruktionsvideor
 * [Konfigurera en leveransmall](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
-* [Ställa in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
+* [Ställ in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
 
 Dokumentation:
 

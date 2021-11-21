@@ -1,9 +1,9 @@
 ---
 title: Lägga till IP-adresser på tillåtelselistor
-seo-title: Lägga till IP-adresser på tillåtelselistor
+seo-title: Adding IP addresses to allow lists
 description: Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens tillåtelselista och hur du tar bort dem från tillåtelselista med hjälp av kontrollpanelen.
-seo-description: I videon nedan förklaras hur du konfigurerar nya anslutningar till instanser genom att tillåtslista IP-adressintervall.
-feature: 'Kontrollpanelen  '
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -41,4 +41,4 @@ Lär dig hur du lägger till ett IP-intervall i Campaign Classic-instansens till
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Se den [detaljerade produktdokumentationen](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html) för mer information om att tillåtslista IP-adresser.
+För mer information om IP-tillåtelse, se [detaljerad produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=sv).

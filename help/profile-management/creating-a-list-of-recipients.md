@@ -1,7 +1,7 @@
 ---
 title: Skapa en lista med mottagare
 description: Lär dig hur du skapar en målgrupp genom att konfigurera en lista med mottagare från Utforskaren.
-feature: Målgrupper
+feature: Audiences
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 62%
+source-wordcount: '106'
+ht-degree: 59%
 
 ---
 
@@ -35,4 +35,4 @@ Självstudiekurser:
 
 * [Skapa och hantera profiler](/help/profile-management/create-and-manage-profiles.md)
 * [Importera profiler](/help/data-management/importing-profiles.md)
-* [Skapa en lista med mottagare med hjälp av ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+* [Skapa en lista med mottagare med ett arbetsflöde](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
