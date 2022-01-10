@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
+source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '266'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Kontrollpanelen är bara tillgänglig för administratörsanvändare. Läs mer om behörigheter i [det här avsnittet](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=sv#discover-control-panel).
 >
->För Campaign Classic v7 måste din instans lagras på Amazon Web Services (AWS) och uppgraderas till den senaste [Stabilt kampanjbygge](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=sv#rn-statuses) (eller för att bygga 9032 eller senare). Läs om hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=sv#getting-your-campaign-version). Följ stegen på [den här sidan](faq.md#hosted-aws) för att kontrollera om instanser har AWS som värd.
+>För Campaign Classic v7 måste din instans lagras på Amazon Web Services (AWS) och uppgraderas till den senaste [Stabilt kampanjbygge](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=sv#rn-statuses) (eller för att bygga 9032 eller senare). Läs om hur du kontrollerar din version i [det här avsnittet](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=sv#getting-your-campaign-version). Följ stegen på [den här sidan](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws) för att kontrollera om instanser har AWS som värd.
 
 The [!UICONTROL Control Panel] gör att Adobe Campaign-administratörer kan övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera [!DNL SFTP] lagring efter instans, hantera [!DNL GPG] eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
