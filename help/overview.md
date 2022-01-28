@@ -5,10 +5,11 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '264'
 ht-degree: 100%
 
 ---
@@ -33,14 +34,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Läs om hur du skickar och validerar ett bevis.*
-
-* **[Designa e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *Läs om hur du använder god praxis för levererbarhet.*
-
-* **[Skapa och designa e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *Förstå processen med att skapa e-postleveranser och läs om hur du designar och anpassar e-postinnehåll.*
 
 
 ## Personalens val

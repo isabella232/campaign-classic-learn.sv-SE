@@ -11,10 +11,10 @@ role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 92%
+source-wordcount: '93'
+ht-degree: 84%
 
 ---
 
@@ -34,17 +34,3 @@ En mall kan systematiskt innehålla:
 I följande video visas hur du konfigurerar en mall för en ad hoc-leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
-
-## Ytterligare resurser {#additional-resources}
-
-Instruktionsvideor
-
-* [Ställ in egenskaper för leveransmallar](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-* [Distribuera en ad-hoc-leveransmall för e-post](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-
-Dokumentation:
-
-* [Om mallar](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=sv)
-* [Skapa en leveransmall](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=sv)
-* [Välja en målgrupp att kartlägga](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=sv)
-* [Skapa en leverans från en mall](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=sv)

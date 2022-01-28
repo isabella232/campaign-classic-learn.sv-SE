@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 90%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,3 @@ För att säkerställa ett stort antal verkliga e-postmeddelanden och ett lågt 
 I videon nedan beskrivs hur du lägger till [!UICONTROL Google TXT]-poster för webbplatsverifiering i alla dina underdomäner som används för att skicka e-post till [!DNL GMAIL]-adresser med [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Ytterligare resurser
-
-* [Hantera TXT-poster (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

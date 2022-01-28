@@ -1,15 +1,15 @@
 ---
 title: Så personaliserar du e-postmeddelanden med dynamiska innehållsblock
 description: I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, använda JavaScript-kod i leveransmallar samt standardisera och dela innehållsblock i olika leveransmallar.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad p
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Ytterligare resurser
-
-* [Om personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+Mer information om personalisering finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,3 @@ ht-degree: 100%
 Med kontrollpanelen kan du kryptera data som kommer från instansen i Adobe Campaign. Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i [!DNL Campaign] för att kryptera utgående data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
-
-## Ytterligare resurser
-
-* [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [GPG-nyckelhantering (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)

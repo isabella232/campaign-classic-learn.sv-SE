@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -28,9 +28,3 @@ För att kunna börja skicka e-post eller publicera landningssidor med Adobe Cam
 Läs om hur du konfigurerar och skickar in en underdomän med CNAME i Kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## Ytterligare resurser
-
-* [Fullständig underdomändelegering (video)](./subdomain-delegation.md)
-* [Konfigurera en ny underdomän (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=sv)
-

@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 58%
+source-wordcount: '50'
+ht-degree: 64%
 
 ---
 
@@ -22,17 +22,3 @@ ht-degree: 58%
 Lär dig förfina målet genom att kombinera frågeresultat i ett arbetsflöde med **[!UICONTROL intersection]** eller **[!UICONTROL union]** verksamhet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
-
-## Ytterligare resurser
-
-Dokumentation:
-
-* [Om arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Skärningspunkt](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
-* [Union](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
-
-Självstudiekurser:
-
-* [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Använd aktiviteten Uppdatera lista för att skapa en lista med ett arbetsflöde](/help/automating-with-workflows/using-the-update-list-activity.md)

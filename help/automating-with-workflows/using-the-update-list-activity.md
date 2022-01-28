@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 63%
+source-wordcount: '78'
+ht-degree: 69%
 
 ---
 
@@ -23,15 +23,3 @@ Lär dig mer om begreppet listor i Adobe Campaign Classic och hur du skapar en l
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
-## Ytterligare resurser
-
-Dokumentation:
-
-* [Om arbetsflöden](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Listuppdatering](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
-
-Självstudiekurser:
-
-* [Målinrikta profiler i ett arbetsflöde](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Förfina mål genom att kombinera frågeresultat](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Förfina mål genom att exkludera frågeresultat](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)

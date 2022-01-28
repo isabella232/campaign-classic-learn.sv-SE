@@ -1,7 +1,7 @@
 ---
 title: Anpassa e-postmeddelanden med personaliseringsfält
 description: Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i innehållet i en e-postleverans.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 68%
+source-wordcount: '97'
+ht-degree: 72%
 
 ---
 
@@ -25,14 +25,4 @@ Lär dig hur du lägger till ett personaliseringsfält på ämnesraden och i inn
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
-## Ytterligare resurser
-
-Dokumentation:
-
-* [Om personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
-* [Fält för personalisering](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=en)
-
-Självstudiekurser:
-
-* [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalisera e-postmeddelanden - Skapa ett flerspråkigt nyhetsbrev med villkorsstyrt innehåll](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+Mer information om personalisering finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
