@@ -11,9 +11,9 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ I videon nedan förklaras hur du aktiverar och använder AMP i Adobe Campaign Cl
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-Du kan använda [AMP-redigerare](https://playground.amp.dev/) för att skapa en egen AMP-kod.
+Du kan använda [AMP-redigeraren](https://playground.amp.dev/) för att skapa en egen AMP-kod.
 
-Se [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=sv#about-amp-for-email) för mer information.
+Mer information finns i [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=sv#about-amp-for-email).
