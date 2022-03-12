@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
+* **[Integrera med Adobe Target](/help/integrations/target-integration.md)**
+
+   *Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target.*
+
 * **[Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *Läs om hur du skapar och genomför en flerkanalskampanj.*
@@ -30,11 +34,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.*
-
-* **[Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *Läs om hur du skickar och validerar ett bevis.*
-
 
 ## Personalens val
 
