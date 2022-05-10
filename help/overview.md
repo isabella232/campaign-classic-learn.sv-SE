@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Integrera med Adobe Target](/help/integrations/target-integration.md)**
 
-   *Lär dig hur ni personaliserar en leverans med dynamiskt innehåll från Adobe Target.*
+   *Läs mer om hur en leverans kan anpassas med dynamiskt innehåll från Adobe Target.*
 
 * **[Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
