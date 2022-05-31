@@ -12,10 +12,10 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '234'
-ht-degree: 100%
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 95%
 
 ---
 
@@ -32,6 +32,8 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
 * **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
+
+Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktreleaserna.
 
 ## Personalens val
 
