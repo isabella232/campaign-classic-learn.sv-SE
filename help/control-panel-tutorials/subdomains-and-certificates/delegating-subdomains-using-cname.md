@@ -10,18 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: e9dbb169f14e6a1b8a0a51c659c2ba6b12e8e7e7
+source-git-commit: 1c6626847e3fcd8f07332dddabc6a9355f83a120
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
 # Delegera underdomäner med CNAME
-
->[!IMPORTANT]
->
-> Användningen av CNAME för att delegera underdomäner är i betaversion och kan ändras ofta utan föregående meddelande.
 
 För att kunna börja skicka e-post eller publicera landningssidor med Adobe Campaign måste du konfigurera en ny underdomän.
 
