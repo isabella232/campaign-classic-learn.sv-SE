@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 96%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Underdomäner och certifikat {#subdomains-and-certificates}
-   + [Fullständig underdomändelegering (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Delegera underdomäner med CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Fullständig delegering av underdomäner](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Hantera Google TXT-poster](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instansinställningar {#instance-settings}
