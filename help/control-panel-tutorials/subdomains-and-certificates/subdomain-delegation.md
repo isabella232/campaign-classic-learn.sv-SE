@@ -11,18 +11,14 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 80d6c06de5f14996daaedeb07b050db81908c370
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 68%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Fullständig delegering av underdomäner
-
->[!IMPORTANT]
->
-> Deldomänsdelegering från [!UICONTROL Control Panel] finns i betaversion och kan uppdateras och ändras ofta utan föregående meddelande.
 
 Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign.
 
