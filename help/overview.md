@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 59%
 
 ---
 
@@ -23,17 +23,21 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Integrera med Adobe Target](/help/integrations/target-integration.md)**
+* **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
-   *Läs mer om hur en leverans kan anpassas med dynamiskt innehåll från Adobe Target.*
+   *Läs om hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
-* **[Skapa flerkanalskampanjer](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-   *Läs om hur du skapar och genomför en flerkanalskampanj.*
+   *Lär dig hur du anpassar SMS-anslutningen till din SMPP-leverantör. Finjustera dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
 
-* **[Använda kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[Anpassa SMS-anslutningen till SMPP-leverantören](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-   *Förstå begreppet kontrollgrupper och läs om hur du använder en kontrollgrupp för leveransen.*
+   *Lär dig hur du finjusterar dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
+
+* **[Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.*
 
 ## Personalens val
 
