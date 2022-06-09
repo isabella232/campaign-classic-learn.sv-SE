@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -43,8 +43,8 @@ ht-degree: 0%
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Felsök e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
    + SMS-kanal {#sms-channel}
+      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,3 +91,6 @@ ht-degree: 0%
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
++ Strategi och tankeledarskap{#strategy}
+   + [Maximera avkastningen på e-postmarknadsföringen och hitta de bästa sätten att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
