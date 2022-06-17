@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=sv)**
 
-   *Läs om hur SMS fungerar och hur Adobe Campaign skickar SMS*
+   *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
-* **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=sv)**
 
-   *Lär dig hur du anpassar SMS-anslutningen till din SMPP-leverantör. Finjustera dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
+   *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönster och kryptering med TLS.*
 
-* **[Anpassa SMS-anslutningen till SMPP-leverantören](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[Anpassa SMS-anslutningen till SMPP-leverantören](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=sv)**
 
-   *Lär dig hur du finjusterar dina SMS-inställningar för att hantera anslutningsbegränsningar, ange maximal genomströmning, sändningsfönstret och kryptering med TLS.*
+   *Lär dig hur du finjusterar SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönster och kryptering med TLS.*
 
-* **[Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)**
 
-   *Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.*
+   *Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.*
 
 ## Personalens val
 
