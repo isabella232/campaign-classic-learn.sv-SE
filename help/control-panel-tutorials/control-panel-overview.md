@@ -13,9 +13,9 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
 source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
 
-Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktreleaserna.
+Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktversionerna.
 
 ## Personalens val
 
