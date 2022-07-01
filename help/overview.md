@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
+source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '384'
+ht-degree: 74%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 > Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet? Delta i konversationen i [Adobe Campaign Learning Community-tråden](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 ## Nyheter
+
+* **[Kontrollpanelen för hybridvärdmodeller](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+   *Lär dig hur du aktiverar Kontrollpanelen för hybridvärdmodeller i Adobe Campaign, öppnar Kontrollpanelen och låser upp nyckelfunktioner.*
 
 * **[Kontrollpanelen - Monitor-arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
