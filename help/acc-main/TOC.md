@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Integrera med Adobe Target](/help/integrations/target-integration.md)
    + [Integrera med Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
