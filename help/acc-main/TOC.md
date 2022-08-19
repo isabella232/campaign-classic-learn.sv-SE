@@ -4,8 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: ht
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
 
@@ -44,7 +44,6 @@ ht-degree: 100%
       + [Felsök e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS-kanal {#sms-channel}
-      + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-kanal {#push-channel}
       + [Installera den mobila appkanalen](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -88,6 +87,7 @@ ht-degree: 100%
    + [Integrera med Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
+   + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
