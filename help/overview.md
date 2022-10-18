@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
+source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
 workflow-type: ht
-source-wordcount: '420'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,8 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 >[!INFO]
 > Har du frågor? Vill du dela med dig av dina erfarenheter eller utbyta tankar med andra? Eller har du feedback på kursmaterialet för Adobe-teamet? Delta i konversationen i [Adobe Campaign Learning Community-tråden](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+
+<div id="whats-new-section">
 
 ## Nyheter
 
@@ -46,6 +48,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=sv)**
 
    *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalens val
 
@@ -92,6 +105,8 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Ytterligare resurser
 
