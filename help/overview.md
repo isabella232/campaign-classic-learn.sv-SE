@@ -5,16 +5,15 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
+source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 98%
 
 ---
 
-# Självstudiekurs för Adobe Campaign Classic V7 – översikt
+# Adobe Campaign Classic V7 självstudiekurser
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign V7.
 
@@ -60,7 +59,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 <div id="staff-picks-section">
 
-## Personalens val
+## Personalval
 
 <table>
 <tr>
