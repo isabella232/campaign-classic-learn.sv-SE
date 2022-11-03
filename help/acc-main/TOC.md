@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
-workflow-type: ht
-source-wordcount: '406'
-ht-degree: 100%
+source-git-commit: 3be59ba2d184aab2e614d8b27326e8a464068650
+workflow-type: tm+mt
+source-wordcount: '413'
+ht-degree: 98%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 100%
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
    + [Hantera godkännanden](/help/automating-with-workflows/managing-approvals.md)
+   + [Lär dig av andra - Bästa arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Designinnehåll{#designing-content}
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
 + Bildskärm {#monitoring}
