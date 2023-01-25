@@ -4,9 +4,9 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
+source-git-commit: 3e39c4972106f6343bec6f1417c3d2ae5371833f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '419'
 ht-degree: 97%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
    + [Hantera godkännanden](/help/automating-with-workflows/managing-approvals.md)
-   + [Lär dig av andra - Bästa arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Lär dig av andra – god praxis för arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Designinnehåll{#designing-content}
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
 + Bildskärm {#monitoring}
@@ -87,11 +87,12 @@ ht-degree: 97%
    + [Integrera med Adobe Target](/help/integrations/target-integration.md)
    + [Integrera med Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrera {#administrating}
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target="_blank"}
    + [Konfigurera SMS för Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=sv)
    + Komma åt en extern databas (FDA) {#fda}
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
+   + [10 Best Practices to Adobe Campaign Success for Marketers](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximera e-postavkastningen och bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)
    + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
