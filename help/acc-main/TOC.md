@@ -5,9 +5,9 @@ user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '420'
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 0%
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
    + [Hantera godkännanden](/help/automating-with-workflows/managing-approvals.md)
-   + [Lär dig av andra – god praxis för arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Lär dig av andra – bästa metoderna för arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Designinnehåll{#designing-content}
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
 + Bildskärm {#monitoring}
@@ -93,6 +93,6 @@ ht-degree: 0%
       + [Stordatahantering på  [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Felsök Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=sv)
 + Strategi och tankeledarskap{#strategy}
-   + [Tio bästa sätten för marknadsförare att lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
+   + [De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximera e-postavkastningen och bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)
    + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
