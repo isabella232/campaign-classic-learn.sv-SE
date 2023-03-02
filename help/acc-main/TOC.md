@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
+source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 98%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
       + [Hantera startvärde och bevis i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Använd kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)
+      + [Konfigurera leveranser för A/B-testning](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [Konfigurera dynamiskt innehåll](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Anpassa e-postmeddelanden med dynamiska innehållsblock](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Anpassa e-postmeddelanden med anpassningsfält](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
