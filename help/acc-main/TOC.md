@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign Classic låter marknadsförare designa ku
 breadcrumb-title: Självstudiekurser
 source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
