@@ -5,9 +5,9 @@ user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -77,13 +77,13 @@ ht-degree: 96%
    + [Hantera tidszoner](/help/automating-with-workflows/manage-time-zones.md)
    + [Konfigurera valideringsarbetsflöden](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Konfigurera berikande aktiviteter](/help/automating-with-workflows/enrichment-activity.md)
-   + [Konfigurera schemaläggningsaktiviteter](/help/automating-with-workflows/configure-scheduler-activities.md)
+   + [Konfigurera schemaläggarens aktiviteter](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Datasegmentering](/help/data-management/data-segmentation.md)
    + [Hantera godkännanden](/help/automating-with-workflows/managing-approvals.md)
    + [Lär dig av andra – bästa metoderna för arbetsflöden](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Konfigurera landningssidor {#landing-pages}
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
-   + [Skapa ett inställningscenter](/help/designing-content/create-a-preference-center.md)
+   + [Skapa ett preferenscenter](/help/designing-content/create-a-preference-center.md)
 + Bildskärm {#monitoring}
    + [Värmekarta för arbetsflöde](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring-campaign-classic/audit-trail.md)
