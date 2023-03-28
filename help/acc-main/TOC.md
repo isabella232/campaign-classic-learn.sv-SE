@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: ht
-source-wordcount: '441'
-ht-degree: 100%
+source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,6 +59,8 @@ ht-degree: 100%
    + Trötthetshantering{#fatigue-management}
       + [Använda typologiregler](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Använda fördefinierade filter](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + Övervaka meddelanden {#monitoring-messages}
+      + [Förstå karantänhantering](/help/sending-messages/quarantine-management.md)
    + [Konfigurera och hantera prenumerationstjänster](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orkestrera kampanjer {#orchestration}
    + [Genomföra en kampanj](/help/orchestrating-campaigns/executing-a-campaign.md)
