@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
-source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+source-git-commit: d91185009803755731f07a0b187dd60cf9141699
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -43,6 +43,7 @@ ht-degree: 0%
       + [Konfigurera återkommande och kontinuerliga e-postkampanjer](/help/sending-messages/recurring-deliveries.md)
       + [Definiera interaktivt e-postinnehåll med AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Felsök e-postleveransproblem](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Lägga till bilagor i en e-postleverans](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Utforma e-postmeddelanden för levererbarhet](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + SMS-kanal {#sms-channel}
       + [Skapa en SMS-leverans](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
