@@ -6,7 +6,7 @@ kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%
@@ -29,18 +29,18 @@ I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, anv�
 
 Ett anpassningsblock är dynamiskt och innehåller specifik återgivningskod som kan läggas till i leveranser. Du kan till exempel lägga till bilder, e-postrubriker, e-postsidfötter, länkar till spegelsidor, länkar till att säga upp en prenumeration och mycket mer.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
 ## Lägga till ett personaliseringsfält i en leverans
 
 Personaliseringsfält används för att personalisera innehållet i levererade meddelanden på första nivån. Fälten som infogas i ett huvudinnehåll visar var data från den valda datakällan ska infogas.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
 ## Lägga till villkorsstyrt innehåll i en leverans
 
 Genom att konfigurera fält med villkorsstyrt innehåll kan du skapa avancerad personalisering. Fullständiga textblock och/eller bilder ersätts när ett visst villkor uppfylls. I den här videon visas hur du lägger till villkorsstyrt innehåll i en leverans med ett exempel som visar ett flerspråkigt nyhetsbrev.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
 Mer information om personalisering finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

@@ -9,7 +9,7 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 96%
@@ -34,18 +34,18 @@ Innan man aktiverar godkännandestegen måste marknadsföringsteamet definiera e
 
 Om du har samma uppsättning granskare för alla leveranser i kampanjarbetsflödet, kan du använda funktionen för kampanjgodkännande genom att konfigurera godkännanden och granskare på kampanjnivå. Godkännandeaktiviteterna och granskarna överförs till varje leveransaktivitet i arbetsflödet när arbetsflödet har körts.
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on)
 
 ## Konfigurera godkännanden för leveranser   {#configuring-approvals-for-deliveries}
 
 Du kan också konfigurera godkännanden på leveransnivå. Leveransinställningarna åsidosätter kampanjinställningarna, om stegen och granskarna för leveransgodkännande skiljer sig från stegen och granskarna för kampanjgodkännande.
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on)
 
 ## Konfigurera en godkännandeaktivitet   {#configuring-an-approval-activity}
 
 Till skillnad från leverans- eller kampanjgodkännandena gör godkännandeaktiviteten det möjligt att skapa en godkännandeprocess i ett arbetsflöde. På så sätt kan logiken för målinriktningsvalen godkännas innan leveransen startas. Det möjliggör även godkännande på flera nivåer i arbetsflödet vid behov.
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on)
 
 Mer information finns i [Godkännandedokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=sv)

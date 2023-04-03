@@ -9,7 +9,7 @@ team: Customer Care
 role: User
 level: Beginner
 last-substantial-update: 2023-03-29T00:00:00Z
-source-git-commit: d91185009803755731f07a0b187dd60cf9141699
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Lär dig hur du lägger till bilagor i en e-postleverans och hur du konfigurerar olika typer av e-postbilagor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on)
