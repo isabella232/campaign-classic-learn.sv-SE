@@ -5,9 +5,9 @@ user-guide-title: Självstudiekurser om Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic låter marknadsförare designa kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler.
 breadcrumb-title: Självstudiekurser
 source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
 + Skicka meddelanden{#sending-messages}
    + E-postkanal{#email-channel}
       + [Skapa och utforma e-postleveranser](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Designa e-postinnehåll](/help/sending-messages/email-channel/design-email-delivery-content.md)
+      + [Designa innehåll för e-postleverans](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Hantera startvärde och bevis i ett e-postmeddelande](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Skicka och validera bevis](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Använd kontrollgrupper](/help/sending-messages/email-channel/use-control-groups.md)
@@ -88,7 +88,7 @@ ht-degree: 98%
 + Konfigurera landningssidor {#landing-pages}
    + [Konfigurera landningssidor](/help/designing-content/configure-landingpages.md)
    + [Skapa ett preferenscenter](/help/designing-content/create-a-preference-center.md)
-+ [Skapa en undersökning](/help/designing-content/create-a-survey.md)
++ [Skapa en enkät](/help/designing-content/create-a-survey.md)
 + Bildskärm {#monitoring}
    + [Värmekarta för arbetsflöde](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Granskningsspår](/help/monitoring-campaign-classic/audit-trail.md)
