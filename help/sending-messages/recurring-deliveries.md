@@ -2,17 +2,17 @@
 title: Konfigurera återkommande och kontinuerliga e-postkampanjer
 description: Lär dig hur du ställer in en återkommande och kontinuerlig leverans och förstå skillnaderna mellan de två metoderna.
 feature: Workflows, Campaigns
-kt: 1560
+jira: KT-1560
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '239'
+ht-degree: 50%
 
 ---
 
@@ -26,13 +26,13 @@ De återkommande och kontinuerliga leveranserna skiljer sig åt när det gäller
 
 * The **kontinuerlig leverans** Med kan du lägga till nya mottagare i en befintlig leverans och undvika att du måste skapa en ny leverans varje gång en ny mottagare läggs till. Du kan uppdatera den kreativa informationen direkt i kampanjarbetsflödet och den uppdaterar mallen i leveransmallens resursmapp.
 
-   En kontinuerlig leverans skapar en enda leverans- och leveranslogg (broadLog) och spårningsloggar som refererar till att en leverans läggs till varje gång den körs.
+  En kontinuerlig leverans skapar en enda leverans- och leveranslogg (broadLog) och spårningsloggar som refererar till att en leverans läggs till varje gång den körs.
 
-   ![Kontinuerlig leverans](/help/assets/delivery_continuous.jpg)
+  ![Kontinuerlig leverans](/help/assets/delivery_continuous.jpg)
 
 * A **återkommande leverans** skapar en ny leveransinstans varje gång den körs. Om arbetsflödet till exempel är schemalagt att köras en gång i veckan resulterar det i 52 leveranser efter ett år. Det innebär också att de breda loggarna och spårningsloggarna separeras av varje leveransinstans.
 
-   ![Återkommande leverans](/help/assets/delivery_recurring.jpg)
+  ![Återkommande leverans](/help/assets/delivery_recurring.jpg)
 
 ## Så ställer du in en återkommande leverans {#how-to-set-up-a-recurring-delivery}
 

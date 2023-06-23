@@ -4,13 +4,13 @@ description: Läs mer om hur en leverans kan anpassas med dynamiskt innehåll fr
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
-kt: 9601
+jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
-source-git-commit: 818dc5bb697ce70182ecee936c22a26730201337
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 61%
 
 ---
 

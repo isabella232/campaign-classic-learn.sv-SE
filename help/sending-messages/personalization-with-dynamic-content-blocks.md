@@ -2,11 +2,11 @@
 title: Så personaliserar du e-postmeddelanden med dynamiska innehållsblock
 description: I den här självstudiekursen visades hur du kan anpassa leveransinnehåll, använda JavaScript-kod i leveransmallar samt standardisera och dela innehållsblock i olika leveransmallar.
 feature: Personalization
-kt: 1559
+jira: KT-1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%

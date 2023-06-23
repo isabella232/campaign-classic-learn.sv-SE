@@ -2,7 +2,7 @@
 title: Förfina mål genom att exkludera frågeresultat
 description: Lär dig hur du förfinar ditt mål genom att tillämpa ett standardundantag i ett arbetsflöde. Du får också lära dig hur du skapar fördefinierade filter och hur felsöker ditt arbetsflödet.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 5548
+jira: KT-5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 82%
 
 ---
 
