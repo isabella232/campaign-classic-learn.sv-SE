@@ -2,15 +2,16 @@
 title: De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign
 description: Lär dig de tio bästa metoderna för att hjälpa yrkesverksamma inom Adobe Campaign att låsa upp och påskynda den digitala konsumentomvandlingen och få en bättre upplevelse för sina kunder.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Precis som dina kunder har du en daglig rutin. Sändningen och orkestreringen av
 
 Om dina kunder till exempel tittar på telefonen på morgonen för att få de bästa erbjudandena bör du överväga att skicka en kampanj till dem. Om de är på jakt efter nästa heta trend kan du skicka ett uppföljningsmejl med en kampanjkod för fri frakt. Det är också viktigt att använda verktyget termisk karta i [!DNL Campaign] för att spåra när arbetsflödena och sändningarna körs. Det kan vara en utmaning att samordna och underlätta kommunikation mellan olika varumärken. [Det är ovärderligt att hålla ett öga på och känna till rytmen, kadensen och timingen för dina e-postmeddelanden](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) för den övergripande stabiliteten och styrkan i ditt meddelande och din Campaign-instans.
 
-## 4. Använd personanpassning på viktiga delar
+## 4. Använd personalisering där det är viktigt
 
 Idag förväntar sig konsumenterna en viss nivå av personanpassning i de meddelanden de får. [80 % av kunderna är mer benägna att köpa från ett varumärke som ger personanpassade upplevelser](https://us.epsilon.com/power-of-me). Det är bra att ha med kundens namn på ämnesraden. Personanpassning kan dock vara mycket mer. Du kan inkludera de produkter som de har bläddrat bland, koppla samman dem med liknande produkter eller fortsätta att förstärka varumärkets sammanhängande upplevelse och känsla. Varje bit räknas och stärker engagemanget och öppningsfrekvensen i meddelandena.
 
