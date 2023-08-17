@@ -23,4 +23,4 @@ Lär dig hur du kontrollerar om mobilappskanalen är installerad på din instans
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
-Mer information om kanalkonfigurationen för mobilappar finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+Mer information om kanalkonfigurationen för mobilappen finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).

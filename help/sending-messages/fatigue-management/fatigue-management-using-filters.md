@@ -1,6 +1,6 @@
 ---
 title: Hantera reklamtrötthet med tryckregler
-description: Lär dig hur du implementerar trötthetshantering i Adobe Campaign Classic med hjälp av filter.
+description: Lär dig implementera trötthetshantering i Adobe Campaign Classic med hjälp av filter.
 feature: Fatigue Management, Typology Rules
 jira: KT-2148
 doc-type: feature video

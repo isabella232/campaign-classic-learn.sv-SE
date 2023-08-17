@@ -24,7 +24,7 @@ Med Adobe Campaign kan ni göra avancerad segmentering med hjälp av djupgående
 
 Kunderna genererar data med alla kanaler nära till hands eftersom de gör allt som folk gör när de försöker fatta ett köpbeslut eller helt enkelt interagerar med ert varumärke.
 
-Med Adobe Campaign integrerade kundprofil kan marknadsförarna både hämta in och hantera data i stor skala. allt från profilattribut som &quot;postadress&quot;, &quot;kön&quot; etc., till interaktionsdata, &quot;öppning av ett meddelande&quot;, &quot;klickning på e-post&quot;, &quot;webbplatsbesök&quot;, till konverteringsdata och till och med offlinedata.
+Med Adobe Campaign integrerade kundprofil kan marknadsförarna både hämta in och hantera data i stor skala; allt från profilattribut som &quot;zip-kod&quot; &quot;adress&quot; &quot;kön&quot; osv. till interaktionsdata, &quot;öppning av ett meddelande&quot;, &quot;klicka på ett e-postmeddelande&quot;, &quot;webbplatsbesök&quot;, till konverteringsdata och till och med offlinedata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
@@ -36,7 +36,7 @@ Med Adobe Campaign integrerade kundprofil kan marknadsförarna både hämta in o
 
 När du har förstått profilerna är du redo att göra avancerad segmentering genom djupgående frågor om vanliga konsumentattribut och andra datakällor. Du kan skapa återanvändbara listor, dynamiskt uppdatera listor baserat på ändringar i realtid och till och med utföra mer komplexa aktiviteter, som multivariata tester på någon av dessa datapunkter.
 
-Observera: Den här videon spelades in i Adobe Campaign Classic V6, men funktionen är exakt densamma, men arbetsflödesikonerna har ändrats.
+Obs! Den här videon spelades in i Adobe Campaign Classic V6, men funktionen är exakt densamma, men arbetsflödesikonerna har ändrats.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

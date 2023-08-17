@@ -8,8 +8,8 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '413'
+ht-degree: 100%
 
 ---
 
@@ -25,28 +25,22 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 ## Nyheter
 
 * **[Djupdykning och felsökning för SMPP-protokollet](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=sv)**
-
-   *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar.*
+  *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Förstå hur du felsöker anslutningar.*
 
 * **[Kontrollpanelen för hybridvärdmodeller](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=sv)**
-
-   *Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner.*
+  *Läs mer om hur du aktiverar kontrollpanelen för hybridvärdmodeller av Adobe Campaign, får åtkomst till kontrollpanelen och låser upp nyckelfunktioner.*
 
 * **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=sv){target="_blank"}**
-
-   *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
+  *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
 
 * **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target="_blank"}**
-
-   *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar av transaktionsmeddelanden i kampanjinstansen.*
+  *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar av transaktionsmeddelanden i kampanjinstansen.*
 
 * **[Introduktion till SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=sv)**
-
-   *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
+  *Lär dig hur SMS fungerar och hur Adobe Campaign skickar SMS*
 
 * **[Konfigurera ett SMS-konto för en vanlig SMPP-leverantör](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=sv)**
-
-   *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
+  *Lär dig hur du anpassar SMS-anslutningen till SMPP-leverantören. Finjustera SMS-inställningarna för att hantera anslutningsbegränsningar, ange maximalt genomflöde, sändningsfönstret och kryptering med TLS.*
 
 </div>
 

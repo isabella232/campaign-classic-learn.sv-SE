@@ -1,5 +1,5 @@
 ---
-title: Så här målar du profiler i ett arbetsflöde
+title: Ange profiler i ett arbetsflöde som mål
 description: Förstå hur du använder kampanjarbetsflöden, hur du skapar ett arbetsflöde och riktar in dig mot profiler i ett arbetsflöde med filter.
 feature: Workflows
 jira: KT-5080
