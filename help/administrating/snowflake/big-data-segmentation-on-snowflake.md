@@ -9,10 +9,10 @@ team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 56%
+source-wordcount: '117'
+ht-degree: 55%
 
 ---
 
@@ -30,6 +30,6 @@ Du kommer att lära dig hur du
 * Söker efter och rapporterar data
 * Exporterar data i listor och skapar realtidsfilter med målinriktning
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){trancript=true}
 
 Mer information om hur du konfigurerar åtkomst till Snowflake finns i [produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 29%
+source-wordcount: '57'
+ht-degree: 28%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 29%
 
 Lär dig hur du skapar ett arbetsflöde för att rikta in dig på mottagare och hur du gör det återkommande innan du använder listan i ett e-postmål.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){trancript=true}

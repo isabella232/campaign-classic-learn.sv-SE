@@ -9,9 +9,9 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Kunderna genererar data med alla kanaler nära till hands eftersom de gör allt 
 
 Med Adobe Campaign integrerade kundprofil kan marknadsförarna både hämta in och hantera data i stor skala; allt från profilattribut som &quot;zip-kod&quot; &quot;adress&quot; &quot;kön&quot; osv. till interaktionsdata, &quot;öppning av ett meddelande&quot;, &quot;klicka på ett e-postmeddelande&quot;, &quot;webbplatsbesök&quot;, till konverteringsdata och till och med offlinedata.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){trancript=true}
 
 ## Skapa och uppdatera kundprofil {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){trancript=true}
 
 ## Kundsegmentering  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ När du har förstått profilerna är du redo att göra avancerad segmentering g
 
 Obs! Den här videon spelades in i Adobe Campaign Classic V6, men funktionen är exakt densamma, men arbetsflödesikonerna har ändrats.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){trancript=true}
 

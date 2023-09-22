@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 97%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 Lär dig hur du skapar en marknadsföringsplan, ett program, en kampanj, hur du anger egenskaper för en kampanj samt hur du använder schemat.
 Videon vägleder dig genom en övning.
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){trancript=true}
