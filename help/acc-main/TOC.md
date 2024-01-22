@@ -1,19 +1,19 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Adobe Campaign Classic v7 Tutorials
+user-guide-title: Självstudiekurser för Adobe Campaign Classic v7
 user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign Classic v7.
-breadcrumb-title: Campaign Classic v7 Tutorials
+breadcrumb-title: Självstudiekurser för Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
 
-# Adobe Campaign Classic v7 Tutorials {#tutorials}
+# Självstudiekurser för Adobe Campaign Classic v7 {#tutorials}
 
 + [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
 + Kom igång {#getting-started}
