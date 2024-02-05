@@ -8,16 +8,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-11928
 thumbnail: 3419047.jpeg
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+exl-id: 195b3470-27a9-41fb-a08b-9e3cf2ee3e91
+source-git-commit: 0aa5d66709bb9c10dd734795c052be78b894d8a9
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
-
 
 # Designa innehåll för e-postleverans
 
 Lär dig hur du konfigurerar, anpassar och testar innehåll för e-postleverans. Lär dig hur du använder mallar, laddar upp bilder, lägger till uttryckssymboler och bäddar in streckkoder och QR-koder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
